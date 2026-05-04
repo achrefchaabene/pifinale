@@ -1,0 +1,1442 @@
+[
+    {
+        "id": 1,
+        "theme": "Symptômes et stades",
+        "question_fr": "Quels sont les premiers signes de la maladie d’Alzheimer ?",
+        "question_darija": "واش هوما أول علامات مرض الزهايمر؟",
+        "answer_fr": "Les premiers signes sont souvent des oublis répétés, des difficultés à trouver ses mots et une petite confusion avec le temps ou les lieux.",
+        "answer_darija": "أول علامات المرض هي النسيان المتكرر، صعوبة في إيجاد الكلمات، وشوية خلط في الوقت أو الأماكن."
+    },
+    {
+        "id": 2,
+        "theme": "Symptômes et stades",
+        "question_fr": "Quelle est la différence entre l’oubli normal et l’Alzheimer ?",
+        "question_darija": "واش الفرق بين النسيان العادي والزهايمر؟",
+        "answer_fr": "L’oubli normal arrive à tout le monde et on finit par s’en souvenir. Dans l’Alzheimer, on oublie des choses importantes et on ne s’en souvient plus du tout.",
+        "answer_darija": "النسيان العادي يجي للكل ونرجعو نتذكرو. أما في الزهايمر ننساو أشياء مهمة وما نرجعوش نتذكروها."
+    },
+    {
+        "id": 3,
+        "theme": "Symptômes et stades",
+        "question_fr": "Quels sont les 4 stades de la maladie d’Alzheimer ?",
+        "question_darija": "واش هوما الـ4 مراحل متاع مرض الزهايمر؟",
+        "answer_fr": "Les 4 stades sont : Très léger, Léger, Modéré et Sévère.",
+        "answer_darija": "الـ4 مراحل هما: خفيف جدا، خفيف، متوسط وشديد."
+    },
+    {
+        "id": 4,
+        "theme": "Symptômes et stades",
+        "question_fr": "Que signifie Very Mild Demented ?",
+        "question_darija": "شنوة معناها Very Mild Demented؟",
+        "answer_fr": "C’est le tout début de la maladie. La personne a des petits troubles de mémoire mais arrive encore à vivre seule.",
+        "answer_darija": "هذي أول مرحلة خفيفة جدا. الإنسان عندو شوية مشاكل في الذاكرة لكن يقدر يعيش لوحدو."
+    },
+    {
+        "id": 5,
+        "theme": "Symptômes et stades",
+        "question_fr": "À partir de quel âge la maladie commence-t-elle généralement ?",
+        "question_darija": "من شنوة سن عادة يبدأ المرض؟",
+        "answer_fr": "Elle touche surtout les personnes de plus de 65 ans, mais peut commencer dès 40-50 ans.",
+        "answer_darija": "غالبا يجي بعد 65 سنة، لكن يقدر يبدأ من 40-50 سنة."
+    },
+    {
+        "id": 6,
+        "theme": "Symptômes et stades",
+        "question_fr": "Est-ce que la maladie d’Alzheimer touche seulement la mémoire ?",
+        "question_darija": "مرض الزهايمر يأثر غير على الذاكرة ولا على حاجات أخرى برشا؟",
+        "answer_fr": "Non, elle touche aussi le langage, l’orientation, le jugement, l’humeur et la capacité à faire les gestes du quotidien.",
+        "answer_darija": "لا، المرض ما يأثرش غير على الذاكرة، يأثر أيضًا على الكلام، التوجيه، الحكم، المزاج والقدرة على عمل الأعمال اليومية."
+    },
+    {
+        "id": 7,
+        "theme": "Symptômes et stades",
+        "question_fr": "Comment savoir si c’est Alzheimer ou une autre démence ?",
+        "question_darija": "كيفاش نعرفو إذا كان هذا الزهايمر ولا نوع آخر من الخرف؟",
+        "answer_fr": "Seul un neurologue peut faire le diagnostic précis après des examens.",
+        "answer_darija": "غير طبيب أعصاب يقدر يعمل التشخيص الصحيح بعد فحوصات."
+    },
+    {
+        "id": 8,
+        "theme": "Symptômes et stades",
+        "question_fr": "Est-ce que la maladie progresse toujours de la même façon ?",
+        "question_darija": "المرض دايما يتقدم بنفس الطريقة ولا كل واحد يختلف؟",
+        "answer_fr": "Non, chaque personne est différente. La vitesse de progression varie.",
+        "answer_darija": "لا، كل شخص يختلف. سرعة تقدم المرض تختلف حسب السن والصحة."
+    },
+    {
+        "id": 9,
+        "theme": "Symptômes et stades",
+        "question_fr": "Combien de temps dure chaque stade en moyenne ?",
+        "question_darija": "كل مرحلة كيفاش تاخذ وقت في المتوسط؟",
+        "answer_fr": "Très léger : plusieurs années ; Léger : 2 à 4 ans ; Modéré : 2 à 3 ans ; Sévère : 1 à 3 ans.",
+        "answer_darija": "خفيف جدا: عدة سنين؛ خفيف: 2 إلى 4 سنين؛ متوسط: 2 إلى 3 سنين؛ شديد: سنة إلى 3 سنين."
+    },
+    {
+        "id": 10,
+        "theme": "Symptômes et stades",
+        "question_fr": "Y a-t-il des signes qui montrent que la maladie avance rapidement ?",
+        "question_darija": "فيه علامات توضح إن المرض يتقدم بسرعة؟",
+        "answer_fr": "Oui, perte rapide d’autonomie, troubles du comportement importants ou difficultés à marcher.",
+        "answer_darija": "أي، فقدان سريع للاستقلالية، اضطرابات سلوكية كبيرة، أو صعوبة في المشي."
+    },
+    {
+        "id": 11,
+        "theme": "Symptômes et stades",
+        "question_fr": "Est-ce que les changements d'humeur font partie des symptômes ?",
+        "question_darija": "واش تبدل المزاج يعتبر من علامات المرض؟",
+        "answer_fr": "Oui, la personne peut devenir anxieuse, irritable ou triste sans raison apparente.",
+        "answer_darija": "أي، المريض ينجم يولي مقلق، فيسع يتغشش، ولا يحزن من غير سبب واضح."
+    },
+    {
+        "id": 12,
+        "theme": "Symptômes et stades",
+        "question_fr": "Comment la maladie affecte-t-elle le sommeil ?",
+        "question_darija": "كيفاش يأثر المرض على النوم؟",
+        "answer_fr": "Les malades confondent souvent le jour et la nuit ou dorment beaucoup pendant la journée.",
+        "answer_darija": "المرضى برشا مرات يغلطو بين الليل والنهار، ولا يوليوا يرقدوا برشا في النهار."
+    },
+    {
+        "id": 13,
+        "theme": "Symptômes et stades",
+        "question_fr": "Pourquoi la personne répète-t-elle souvent la même question ?",
+        "question_darija": "علاش المريض يقعد يعاود في نفس السؤال برشا مرات؟",
+        "answer_fr": "Parce qu'elle oublie l'information immédiatement et cherche à se rassurer auprès de son entourage.",
+        "answer_darija": "خاطر ينسى المعلومة في وقتها ويحب يطمن روحو كيف يعاود يسأل اللي دايرين بيه."
+    },
+    {
+        "id": 14,
+        "theme": "Symptômes et stades",
+        "question_fr": "Est-ce que la perte d'odorat est un signe précoce ?",
+        "question_darija": "واش فقدان حاسة الشم علامة من علامات البداية؟",
+        "answer_fr": "Oui, des études montrent que la perte de l'odorat peut parfois apparaître avant les troubles de mémoire.",
+        "answer_darija": "أي، الدراسات تقول الي فقدان حاسة الشم تنجم تظهر ساعات قبل مشاكل الذاكرة."
+    },
+    {
+        "id": 15,
+        "theme": "Symptômes et stades",
+        "question_fr": "C'est quoi le stade 'Modéré' exactement ?",
+        "question_darija": "شنوة معناها المرحلة 'المتوسطة' بالضبط؟",
+        "answer_fr": "La personne a besoin d'aide pour s'habiller ou se laver, et commence à oublier son adresse ou son numéro.",
+        "answer_darija": "المريض يولي يستحق مساعدة باش يلبس ولا يدوش، ويبدأ ينسى عنوان دارو ولا نيمرو تليفونو."
+    },
+    {
+        "id": 16,
+        "theme": "Symptômes et stades",
+        "question_fr": "Quels sont les signes du stade 'Sévère' ?",
+        "question_darija": "شنوة علامات المرحلة 'الشديدة'؟",
+        "answer_fr": "Perte totale d'autonomie, difficultés à parler, à manger et à reconnaître ses proches.",
+        "answer_darija": "فقدان كامل للاستقلالية، صعوبة كبيرة في الكلام، الماكلة، وحتى باش يعرف عائلتو."
+    },
+    {
+        "id": 17,
+        "theme": "Symptômes et stades",
+        "question_fr": "Est-ce que le malade se rend compte qu'il perd la mémoire ?",
+        "question_darija": "واش المريض يفيق بروحه بلي راهو ينسى؟",
+        "answer_fr": "Au début oui, ce qui peut causer de l'anxiété. Plus tard, il ne s'en rend plus compte (anosognosie).",
+        "answer_darija": "في البداية أي، وهذا ينجم يخليه يقلق. أما مبعد، يولي ما عادش يفيق بلي راهو يغلط ولا ينسى."
+    },
+    {
+        "id": 18,
+        "theme": "Symptômes et stades",
+        "question_fr": "Pourquoi la personne a-t-elle du mal à gérer l'argent ?",
+        "question_darija": "علاش المريض يولي ما يعرفش يتصرف في الفلوس؟",
+        "answer_fr": "C'est un signe courant : la perte de la capacité de calcul et la confusion sur la valeur des billets.",
+        "answer_darija": "هذي علامة معروفة: يولي يغلط في الحساب وما عادش يفرق مليح بين قيمة الفلوس."
+    },
+    {
+        "id": 19,
+        "theme": "Symptômes et stades",
+        "question_fr": "Est-ce que la personne peut avoir des hallucinations ?",
+        "question_darija": "المريض ينجم يولي يتخيل حاجات مش موجودة؟",
+        "answer_fr": "Oui, dans les stades avancés, il peut voir ou entendre des choses qui n'existent pas.",
+        "answer_darija": "أي، في المراحل المتقدمة ينجم يولي يشوف ولا يسمع حاجات ماهيش موجودة بالحق."
+    },
+    {
+        "id": 20,
+        "theme": "Symptômes et stades",
+        "question_fr": "C'est quoi l'errance chez le malade ?",
+        "question_darija": "شنوة معناها المريض يولي 'يهيم' ولا يدور بلاش هدف؟",
+        "answer_fr": "C'est quand le malade marche sans but et risque de se perdre car il ne reconnaît plus son quartier.",
+        "answer_darija": "هو كيف المريض يخرج يمشي ويهيم وما يعرفش وين ماشي، وينجم يضيع خاطر ما عادش يعقل حومتو."
+    },
+    {
+        "id": 21,
+        "theme": "Soins quotidiens",
+        "question_fr": "Comment faire manger une personne qui a Alzheimer et qui refuse la nourriture ?",
+        "question_darija": "كيفاش نخلي المريض ياكل إذا كان يرفض الأكل؟",
+        "answer_fr": "Proposez de petits repas fréquents, dans un endroit calme, en restant patient et en mangeant avec elle. Évitez de forcer.",
+        "answer_darija": "قدم وجبات صغيرة ومتكررة في مكان هادئ، خليك صبور وكل معاه. متجبرش."
+    },
+    {
+        "id": 22,
+        "theme": "Soins quotidiens",
+        "question_fr": "Quels aliments sont recommandés pour les malades d’Alzheimer ?",
+        "question_darija": "شنوة الأكلات اللي ينصحوا بيها للمرضى بالزهايمر؟",
+        "answer_fr": "Aliments riches en oméga-3 (poisson), fruits, légumes, noix, céréales complètes et beaucoup d’eau.",
+        "answer_darija": "أكلات غنية بأوميغا 3 (سمك)، فواكه، خضر، كعاب، حبوب كاملة وماء بكثرة."
+    },
+    {
+        "id": 23,
+        "theme": "Soins quotidiens",
+        "question_fr": "Comment gérer l’incontinence (fuites d’urine) à la maison ?",
+        "question_darija": "كيفاش نتعامل مع مشكلة التبول اللاإرادي في الدار؟",
+        "answer_fr": "Utilisez des protections adaptées, allez aux toilettes à heures régulières et maintenez une hygiène douce.",
+        "answer_darija": "استعملو حفاضات مناسبة، روحو للحمام في أوقات منتظمة، وخلو النظافة رقيقة."
+    },
+    {
+        "id": 24,
+        "theme": "Soins quotidiens",
+        "question_fr": "Comment rendre la salle de bain sécurisée pour un malade ?",
+        "question_darija": "كيفاش نأمن الحمام باش ما يوقعش المريض؟",
+        "answer_fr": "Installez des barres d’appui, un tapis antidérapant, une douche avec siège et enlevez les tapis qui glissent.",
+        "answer_darija": "حط براغي دعم، سجادة مضادة للانزلاق، كرسي دش وأزيل البسط اللي تتزحلق."
+    },
+    {
+        "id": 25,
+        "theme": "Soins quotidiens",
+        "question_fr": "Que faire si le malade se perd dans sa propre maison ?",
+        "question_darija": "شنوة نعملوا إذا كان المريض يضيع في داره هو نفسه؟",
+        "answer_fr": "Mettez des pancartes avec photos et mots simples sur les portes et gardez la maison bien éclairée.",
+        "answer_darija": "حط لافتات مع صور وكلمات بسيطة على الأبواب وخلي الدار مضيئة برشا."
+    },
+    {
+        "id": 26,
+        "theme": "Soins quotidiens",
+        "question_fr": "Comment aider à l’habillage quand la personne ne veut plus s’habiller ?",
+        "question_darija": "كيفاش نساعدو في لبس اللبس إذا كان المريض ما يحبش يلبس؟",
+        "answer_fr": "Proposez des vêtements simples et confortables. Laissez-lui choisir entre 2 options.",
+        "answer_darija": "قدملو لباس بسيط وريح. خليه يختار بين زوز خيارات."
+    },
+    {
+        "id": 27,
+        "theme": "Soins quotidiens",
+        "question_fr": "Faut-il laisser le malade seul à la maison ?",
+        "question_darija": "واش لازم نخلّي المريض لوحدو في الدار؟",
+        "answer_fr": "Non, ce n’est pas recommandé, surtout aux stades moyen et avancé.",
+        "answer_darija": "لا، ما ينجمش يبقى لوحدو في الدار، خاصة في المراحل المتوسطة والمتقدمة."
+    },
+    {
+        "id": 28,
+        "theme": "Soins quotidiens",
+        "question_fr": "Quels objets dangereux faut-il enlever à la maison ?",
+        "question_darija": "شنوة الأشياء الخطرة اللي لازم ننحيوهم من الدار؟",
+        "answer_fr": "Couteaux, allumettes, produits ménagers toxiques et tout ce qui peut provoquer des brûlures ou des chutes.",
+        "answer_darija": "السكاكين، الكبريت، مواد التنظيف الخطرة وكل حاجة تنجم تسبب حرق أو سقوط."
+    },
+    {
+        "id": 29,
+        "theme": "Soins quotidiens",
+        "question_fr": "Comment organiser le sommeil d’une personne atteinte d’Alzheimer ?",
+        "question_darija": "كيفاش ننظم نوم المريض بالزهايمر؟",
+        "answer_fr": "Maintenez des horaires fixes, évitez les siestes longues et créez un environnement calme le soir.",
+        "answer_darija": "حافظ على مواعيد نوم ثابتة، ما تخليش ينام نهار طويل وخلي الجو هادئ في الليل."
+    },
+    {
+        "id": 30,
+        "theme": "Soins quotidiens",
+        "question_fr": "Comment gérer l’hygiène buccale si la personne refuse de se brosser les dents ?",
+        "question_darija": "كيفاش نهتم بنظافة الفم إذا كان المريض ما يحبش يفرشي أسنانه؟",
+        "answer_fr": "Utilisez une brosse électrique douce ou des lingettes dentaires spéciales.",
+        "answer_darija": "استعمل فرشاة أسنان كهربائية ناعمة أو مناديل أسنان خاصة."
+    },
+    {
+        "id": 31,
+        "theme": "Soins quotidiens",
+        "question_fr": "Comment réagir si le malade refuse de prendre sa douche ?",
+        "question_darija": "شنوة نعمل إذا كان المريض يرفض باش يدوش؟",
+        "answer_fr": "Ne forcez pas. Essayez plus tard, assurez-vous que la salle de bain est bien chauffée et utilisez une éponge douce au lieu du jet de douche s'il a peur.",
+        "answer_darija": "ما تغصبش عليه. عاود جرب مبعد، ثبت الي الحمام دافي، واستعمل ليفة رطبة في بلاصة الرشاش متع الدوش إذا كان يخاف منو."
+    },
+    {
+        "id": 32,
+        "theme": "Soins quotidiens",
+        "question_fr": "Est-ce qu'on peut laisser le malade cuisiner ?",
+        "question_darija": "ينجم المريض يطيب والا يدخل للكوجينة؟",
+        "answer_fr": "C'est risqué à cause des oublis (feu, gaz). Il vaut mieux qu'il aide à préparer des choses simples sous surveillance (éplucher des légumes).",
+        "answer_darija": "فيه خطر خاطر ينجم ينسى الكاز ولا النار شاعلة. أحسن حاجة يعاون في حاجات ساهلة وهو تحت العناية، كيف تقشير الخضرة."
+    },
+    {
+        "id": 33,
+        "theme": "Soins quotidiens",
+        "question_fr": "Comment gérer la conduite automobile ?",
+        "question_darija": "كيفاش نتعامل مع موضوع سوقان الكرهبة؟",
+        "answer_fr": "Dès que le diagnostic est posé, il faut progressivement arrêter la conduite pour la sécurité du malade et des autres. Parlez-en avec le médecin.",
+        "answer_darija": "ملي يتشخص المرض، لازم بشوية بشوية يحبس السوقان على سلامتو وسلامة الناس. لازم تحكي مع الطبيب في الموضوع هذا."
+    },
+    {
+        "id": 34,
+        "theme": "Soins quotidiens",
+        "question_fr": "Pourquoi le malade veut-il souvent 'rentrer à la maison' alors qu'il y est déjà ?",
+        "question_darija": "علاش المريض يقول 'نحب نروح لداري' وهو ديجا في دارو؟",
+        "answer_fr": "Il exprime souvent un sentiment d'insécurité ou cherche un souvenir d'enfance. Rassurez-le avec des câlins ou détournez son attention.",
+        "answer_darija": "برشا مرات يكون حاسس بالخوف ولا يلوج على ذكريات صغرو. طمنو بكليمة باحة ولا بوسة، وحاول بدلو الموضوع."
+    },
+    {
+        "id": 35,
+        "theme": "Soins quotidiens",
+        "question_fr": "Comment aider le malade à ne pas oublier ses médicaments ?",
+        "question_darija": "كيفاش نعاون المريض باش ما ينساش دواياته؟",
+        "answer_fr": "Utilisez un pilulier hebdomadaire clair et surveillez la prise directe. Ne le laissez pas gérer ses médicaments seul.",
+        "answer_darija": "استعمل منظم أدوية (pilulier) واضح، وثبت فيه كيف يشرب الدواء. ما لازمش تخليه ياخذ دواه لوحدو."
+    },
+    {
+        "id": 36,
+        "theme": "Soins quotidiens",
+        "question_fr": "Est-ce que l'exercice physique est bon pour lui ?",
+        "question_darija": "واش الحركة والرياضة باهية للمريض؟",
+        "answer_fr": "Oui, une marche quotidienne de 20 minutes aide à réduire l'agitation et améliore le sommeil.",
+        "answer_darija": "أي، مشية متع 20 دقيقة كل يوم تعاونو باش ينقص من التوتر ويرقد أحسن في الليل."
+    },
+    {
+        "id": 37,
+        "theme": "Soins quotidiens",
+        "question_fr": "Comment communiquer s'il ne trouve plus ses mots ?",
+        "question_darija": "كيفاش نحكي معاه إذا كان ما عادش يلقى الكلمات؟",
+        "answer_fr": "Soyez patient, utilisez des gestes, montrez des objets et posez des questions simples où il peut répondre par 'oui' ou 'non'.",
+        "answer_darija": "خليك صبور، استعمل يديك، وريه الحاجات الي تحكي عليها، واسألو أسئلة ساهلة يجاوب عليها بـ 'أي' ولا 'لا'."
+    },
+    {
+        "id": 38,
+        "theme": "Soins quotidiens",
+        "question_fr": "Faut-il lui dire la vérité s'il demande après un proche décédé ?",
+        "question_darija": "نقولو الحقيقة إذا سأل على حد ميت من العائلة؟",
+        "answer_fr": "Lui dire la vérité brutalement peut le refaire souffrir à chaque fois. Il est parfois mieux de valider ses sentiments sans insister sur le décès.",
+        "answer_darija": "إذا تقولو الحقيقة بصدمة ينجم يتفجع ويتعذب كل مرة. ساعات خير كان تطمنو وتحكي معاه عليه من غير ما تركز الي هو توفى."
+    },
+    {
+        "id": 39,
+        "theme": "Soins quotidiens",
+        "question_fr": "Comment éviter les chutes pendant la nuit ?",
+        "question_darija": "كيفاش نحمي المريض باش ما يطيحش في الليل؟",
+        "answer_fr": "Laissez une veilleuse allumée dans le couloir et retirez les tapis ou meubles encombrants entre le lit et les toilettes.",
+        "answer_darija": "خلي ضوء صغير شاعل في الكلوار، ونحي الزرابي ولا الأثاث الي ينجم يعثّر في الطريق بين الفرش والحمام."
+    },
+    {
+        "id": 40,
+        "theme": "Soins quotidiens",
+        "question_fr": "Comment occuper le malade pendant la journée ?",
+        "question_darija": "كيفاش نشغل المريض في النهار باش ما يقلقش؟",
+        "answer_fr": "Proposez des activités simples : écouter de la musique ancienne, regarder des albums photos ou plier du linge.",
+        "answer_darija": "اعطيه حاجات ساهلة يعملها: يسمع غناي قديم، يشوف تصاور العائلة، ولا يطبق معاك الحوايج."
+    },
+    {
+        "id": 41,
+        "theme": "Troubles du comportement",
+        "question_fr": "Que faire quand le malade devient agressif ou énervé ?",
+        "question_darija": "شنوة نعملوا لما المريض يولي عنيف أو متعصب؟",
+        "answer_fr": "Restez calme, parlez doucement, éloignez les objets dangereux et changez de sujet.",
+        "answer_darija": "خليك هادئ، حكي بصوت خفيف، أبعد الأشياء الخطرة وغيّر الموضوع."
+    },
+    {
+        "id": 42,
+        "theme": "Troubles du comportement",
+        "question_fr": "Comment gérer les hallucinations ?",
+        "question_darija": "كيفاش نتعامل مع الهلوسة؟",
+        "answer_fr": "Ne contredisez pas la personne. Dites-lui que vous êtes là avec elle et distrayez-la doucement.",
+        "answer_darija": "ما تناقضش المريض. قولو إنك موجود معاه وحاول تشغله بهدوء."
+    },
+    {
+        "id": 43,
+        "theme": "Troubles du comportement",
+        "question_fr": "Pourquoi le malade répète toujours la même question ?",
+        "question_darija": "علاش المريض يعاود نفس السؤال مرة ومرات؟",
+        "answer_fr": "C’est à cause de la perte de mémoire à court terme. Soyez patient et répondez calmement.",
+        "answer_darija": "هذا بسبب ضعف الذاكرة القصيرة. خليك صبور وجاوب بهدوء."
+    },
+    {
+        "id": 44,
+        "theme": "Troubles du comportement",
+        "question_fr": "Comment calmer une personne qui fait une crise d’angoisse ?",
+        "question_darija": "كيفاش نهدّي المريض لما يجيه نوبة قلق شديدة؟",
+        "answer_fr": "Restez près d’elle, parlez-lui calmement et respirez lentement avec elle.",
+        "answer_darija": "ابقى قريب منها، حكي معاها بهدوء وتنفس ببطء معاها."
+    },
+    {
+        "id": 45,
+        "theme": "Troubles du comportement",
+        "question_fr": "Le malade accuse la famille de vol, que faire ?",
+        "question_darija": "المريض يتهم العائلة بالسرقة، شنوة نعملوا؟",
+        "answer_fr": "Ne discutez pas. Rassurez-le calmement et changez de sujet.",
+        "answer_darija": "ما تناقشش. طمنو بهدوء وغيّر الموضوع."
+    },
+    {
+        "id": 46,
+        "theme": "Troubles du comportement",
+        "question_fr": "Comment gérer les cris et les pleurs sans raison apparente ?",
+        "question_darija": "كيفاش نتعامل مع الصراخ والبكاء بلا سبب واضح؟",
+        "answer_fr": "Essayez de comprendre s’il a mal ou peur, puis distrayez-le avec de la musique ou une activité agréable.",
+        "answer_darija": "حاول تفهم إذا كان يوجعو أو خايف، ثم شغله بموسيقى أو نشاط يريحه."
+    },
+    {
+        "id": 47,
+        "theme": "Troubles du comportement",
+        "question_fr": "Que faire si le malade veut sortir de la maison la nuit ?",
+        "question_darija": "شنوة نعملوا إذا كان المريض يحب يخرج من الدار في الليل؟",
+        "answer_fr": "Fermez les portes avec un verrou en hauteur et rassurez-le qu’il est en sécurité.",
+        "answer_darija": "سد الأبواب بقفل عالي وطمنو إنو في أمان."
+    },
+    {
+        "id": 48,
+        "theme": "Troubles du comportement",
+        "question_fr": "Comment réagir face à la suspicion et la paranoïa ?",
+        "question_darija": "كيفاش نتصرف مع الشك والبارانويا عند المريض؟",
+        "answer_fr": "Ne prenez pas les accusations personnellement. Rassurez-le avec des phrases simples.",
+        "answer_darija": "ما تاخذش الاتهامات شخصياً. طمنو بجمل بسيطة."
+    },
+    {
+        "id": 49,
+        "theme": "Troubles du comportement",
+        "question_fr": "Est-ce normal que le malade devienne très triste ou déprimé ?",
+        "question_darija": "واش طبيعي إن المريض يولي حزين برشا أو مكتئب؟",
+        "answer_fr": "Oui, c’est fréquent. Parlez-en au médecin.",
+        "answer_darija": "أي، هذا شائع برشا. حكي مع الطبيب."
+    },
+    {
+        "id": 50,
+        "theme": "Troubles du comportement",
+        "question_fr": "Comment aider quand le malade ne reconnaît plus ses proches ?",
+        "question_darija": "كيفاش نساعدو لما المريض ما يعرفش أهله وأقربائه؟",
+        "answer_fr": "Montrez-lui des photos anciennes et parlez-lui avec douceur de souvenirs heureux.",
+        "answer_darija": "وريه صور قديمة وحكيلو بهدوء على ذكريات حلوة."
+    },
+    {
+        "id": 51,
+        "theme": "Troubles du comportement",
+        "question_fr": "Pourquoi le malade devient-il plus agité en fin de journée (syndrome du coucher de soleil) ?",
+        "question_darija": "علاش المريض يولي مقلق أكثر كيف يطيح الليل؟",
+        "answer_fr": "C'est dû à la fatigue et à la baisse de lumière. Essayez d'allumer les lumières tôt et de créer une ambiance calme l'après-midi.",
+        "answer_darija": "هذا بسبب التعب ونقص الضوء. حاول تشعل الضوء بكري وتخلي الجو هادي في الدار من العشية."
+    },
+    {
+        "id": 52,
+        "theme": "Troubles du comportement",
+        "question_fr": "Que faire si le malade refuse de prendre ses médicaments ?",
+        "question_darija": "شنوة نعمل إذا كان المريض يرفض باش يشرب دواه؟",
+        "answer_fr": "Ne le forcez pas. Essayez de lui donner plus tard, ou demandez au médecin si on peut mélanger le médicament avec de la nourriture (yaourt, compote).",
+        "answer_darija": "ما تغصبش عليه. عاود جرب مبعد، ولا اسأل الطبيب إذا كان تنجم تخلط الدواء مع الماكلة كيف الياغورت."
+    },
+    {
+        "id": 53,
+        "theme": "Troubles du comportement",
+        "question_fr": "Comment réagir face à des propos déplacés ou impolis du malade ?",
+        "question_darija": "كيفاش نتصرف إذا كان المريض قال كلام مش باهي ولا قلة تربية؟",
+        "answer_fr": "Gardez en tête que c'est la maladie qui parle, pas la personne. Ne le grondez pas, faites diversion avec un autre sujet.",
+        "answer_darija": "حط في بالك الي المرض هو الي يتكلم مش هو. ما تعيطش عليه، وحاول بدلو الموضوع بحاجة أخرى."
+    },
+    {
+        "id": 54,
+        "theme": "Troubles du comportement",
+        "question_fr": "Le malade veut tout le temps s'enfuir, comment l'empêcher ?",
+        "question_darija": "المريض يحب يهرب من الدار ديما، كيفاش نمنعو؟",
+        "answer_fr": "Camouflez la porte de sortie (avec un rideau par exemple) et assurez-vous qu'il fait assez d'exercice physique la journée pour être fatigué le soir.",
+        "answer_darija": "حاول غطي باب الخروج (بستار مثلا) وثبت الي هو يتحرك برشا في النهار باش يتعب ويرقد في الليل."
+    },
+    {
+        "id": 55,
+        "theme": "Troubles du comportement",
+        "question_fr": "Pourquoi le malade range-t-il ou cache-t-il des objets bizarrement ?",
+        "question_darija": "علاش المريض يولي يخبي في الحاجات في بلايص غريبة؟",
+        "answer_fr": "C'est un besoin de contrôle ou de protection. Ne le disputez pas, aidez-le simplement à retrouver l'objet plus tard sans stress.",
+        "answer_darija": "يحس الي هو لازم يحمي حاجاتو. ما تتغشاش عليه، وعاونو باش تلقاو الحاجة مبعد من غير ستريس."
+    },
+    {
+        "id": 56,
+        "theme": "Troubles du comportement",
+        "question_fr": "Que faire si le malade commence à se déshabiller en public ?",
+        "question_darija": "شنوة نعمل إذا كان المريض بدا ينحي حوايجو قدام الناس؟",
+        "answer_fr": "Restez calme, couvrez-le doucement et emmenez-le dans un endroit privé. Vérifiez s'il a trop chaud ou s'il doit aller aux toilettes.",
+        "answer_darija": "خليك رزين، غطيه بشوية وهزو لبلاصة ما فيها حد. ثبت يمكن راهو مسخن ولا يحب يمشي للحمام."
+    },
+    {
+        "id": 57,
+        "theme": "Troubles du comportement",
+        "question_fr": "Comment gérer l'apathie (quand le malade ne veut plus rien faire) ?",
+        "question_darija": "كيفاش نتصرف مع المريض الي يولي فادد وما يحب يعمل حتى شيء؟",
+        "answer_fr": "Proposez-lui des activités très courtes et simples. Encouragez-le sans lui mettre la pression.",
+        "answer_darija": "اعطيه يعمل حاجات ساهلة وقصيرة. شجعو من غير ما تضغط عليه برشا."
+    },
+    {
+        "id": 58,
+        "theme": "Troubles du comportement",
+        "question_fr": "Le malade suit l'aidant partout (phénomène de l'ombre), que faire ?",
+        "question_darija": "المريض يولي يتبع في الي لاهي بيه وين ما يمشي، كيفاش نعمل؟",
+        "answer_fr": "C'est un signe d'angoisse. Donnez-lui une petite occupation à côté de vous pour qu'il se sente utile et rassuré.",
+        "answer_darija": "هذي علامة خوف. اعطيه حاجة صغيرة يعملها بحذاك باش يحس روحو يعاون ويطمن."
+    },
+    {
+        "id": 59,
+        "theme": "Troubles du comportement",
+        "question_fr": "Est-ce que la musique peut calmer l'agitation ?",
+        "question_darija": "واش الموسيقى تنجم تهدي المريض؟",
+        "answer_fr": "Oui, la musique qu'il aimait autrefois peut faire des miracles pour apaiser le stress et l'agitation.",
+        "answer_darija": "أي، الموسيقى الي كان يحبها قبل تنجم تعمل العجب وتخليه يرتاح وينقص من التوتر."
+    },
+    {
+        "id": 60,
+        "theme": "Troubles du comportement",
+        "question_fr": "Quand faut-il appeler le médecin pour un trouble du comportement ?",
+        "question_darija": "وقتيش لازم نكلم الطبيب على خاطر تبدل سلوكو؟",
+        "answer_fr": "Dès que l'agressivité devient dangereuse pour lui ou pour vous, ou si un changement brutal survient en quelques heures.",
+        "answer_darija": "وقت الي يولي عنيف ويشكل خطر عليه ولا عليك، ولا إذا كان تبدل تصرفو فجأة في ظرف ساعات قليل."
+    },
+    {
+        "id": 61,
+        "theme": "Médicaments et effets secondaires",
+        "question_fr": "Quels sont les médicaments les plus prescrits contre l’Alzheimer ?",
+        "question_darija": "واش هوما الأدوية الأكثر وصفاً لمرض الزهايمر؟",
+        "answer_fr": "Les plus prescrits sont le Donepezil (Aricept), la Rivastigmine (Exelon) et la Memantine (Ebixa).",
+        "answer_darija": "الأدوية الأكثر وصفاً هي الدونيبيزيل (Aricept)، الريفاستيغمين (Exelon) والميمانتين (Ebixa)."
+    },
+    {
+        "id": 62,
+        "theme": "Médicaments et effets secondaires",
+        "question_fr": "Est-ce que les médicaments guérissent la maladie ou seulement ralentissent ?",
+        "question_darija": "الأدوية تشفي المرض ولا بس تبطئوه؟",
+        "answer_fr": "Ils ne guérissent pas la maladie, mais ils peuvent ralentir son évolution.",
+        "answer_darija": "ما يشفيوش المرض، لكن ينجمو يبطئوه."
+    },
+    {
+        "id": 63,
+        "theme": "Médicaments et effets secondaires",
+        "question_fr": "Quels sont les effets secondaires les plus fréquents des médicaments ?",
+        "question_darija": "واش هوما الآثار الجانبية الأكثر شيوعاً للأدوية؟",
+        "answer_fr": "Nausées, vomissements, diarrhée, perte d’appétit et fatigue.",
+        "answer_darija": "الغثيان، القيء، الإسهال، نقص الشهية والتعب."
+    },
+    {
+        "id": 64,
+        "theme": "Médicaments et effets secondaires",
+        "question_fr": "Que faire si le malade refuse de prendre ses médicaments ?",
+        "question_darija": "شنوة نعملوا إذا كان المريض يرفض ياخذ دوايه؟",
+        "answer_fr": "Essayez de les cacher dans la nourriture ou demandez au médecin une forme en patch ou sirop.",
+        "answer_darija": "جرب تخبيهم في الأكل أو اسأل الطبيب على شكل لصاقة أو شراب."
+    },
+    {
+        "id": 65,
+        "theme": "Médicaments et effets secondaires",
+        "question_fr": "Est-ce qu’on peut arrêter le traitement soudainement ?",
+        "question_darija": "واش ينجم الإنسان يوقف العلاج فجأة؟",
+        "answer_fr": "Non, il faut toujours consulter le médecin avant d’arrêter.",
+        "answer_darija": "لا، لازم تستشير الطبيب قبل ما توقف."
+    },
+    {
+        "id": 66,
+        "theme": "Médicaments et effets secondaires",
+        "question_fr": "Comment gérer les nausées et les vomissements causés par les médicaments ?",
+        "question_darija": "كيفاش نتعامل مع الغثيان والقيء اللي يجيبوه الأدوية؟",
+        "answer_fr": "Donnez le médicament avec un repas ou demandez au médecin de changer la molécule.",
+        "answer_darija": "أعطي الدوا مع الأكل أو اسأل الطبيب يغير الدوا."
+    },
+    {
+        "id": 67,
+        "theme": "Médicaments et effets secondaires",
+        "question_fr": "Y a-t-il des interactions dangereuses avec d’autres médicaments ?",
+        "question_darija": "فيه تفاعلات خطرة مع أدوية أخرى؟",
+        "answer_fr": "Oui, surtout avec les médicaments pour le cœur. Montrez toujours la liste complète au médecin.",
+        "answer_darija": "أي، خاصة مع أدوية القلب. لازم توري قائمة كل الأدوية للطبيب."
+    },
+    {
+        "id": 68,
+        "theme": "Médicaments et effets secondaires",
+        "question_fr": "Est-ce que les médicaments sont couverts par la CNAM en Tunisie ?",
+        "question_darija": "الأدوية متع الزهايمر مغطاة بالـ CNAM في تونس؟",
+        "answer_fr": "Certains le sont partiellement. Demandez à votre pharmacien.",
+        "answer_darija": "بعضهم مغطى جزئياً. اسأل الصيدلي."
+    },
+    {
+        "id": 69,
+        "theme": "Médicaments et effets secondaires",
+        "question_fr": "Quand faut-il changer ou arrêter un médicament ?",
+        "question_darija": "متى لازم نغيّر أو نوقف دوا معيّن؟",
+        "answer_fr": "Quand les effets secondaires sont trop forts ou quand le médecin juge que le bénéfice n’est plus suffisant.",
+        "answer_darija": "لما الآثار الجانبية تكون قوية برشا أو لما الطبيب يقرر إن الفايدة ما عادتش كافية."
+    },
+    {
+        "id": 70,
+        "theme": "Médicaments et effets secondaires",
+        "question_fr": "Existe-t-il des traitements naturels ou compléments alimentaires efficaces ?",
+        "question_darija": "فيه علاجات طبيعية أو مكملات غذائية فعالة؟",
+        "answer_fr": "Certains compléments (oméga-3, curcuma, vitamine D) peuvent aider un peu, mais ils ne remplacent pas les médicaments.",
+        "answer_darija": "بعض المكملات (أوميغا 3، الكركم، فيتامين D) ينجمو يساعدو شوية، لكن ما يعوضوش الأدوية."
+    },
+    {
+        "id": 71,
+        "theme": "Médicaments et effets secondaires",
+        "question_fr": "C'est quoi un 'patch' pour Alzheimer et comment l'utiliser ?",
+        "question_darija": "شنوة هي 'اللصقة' متع الزهايمر وكيفاش نستعملوها؟",
+        "answer_fr": "C'est un timbre (Rivastigmine) qu'on colle sur la peau (dos ou bras) chaque jour pour diffuser le médicament sans passer par l'estomac.",
+        "answer_darija": "هي لصقة (Rivastigmine) تتحط على الجلدة (في الظهر ولا الذراع) كل يوم باش يتعدى الدواء في الدم من غير ما يقلق المعدة."
+    },
+    {
+        "id": 72,
+        "theme": "Médicaments et effets secondaires",
+        "question_fr": "Pourquoi faut-il changer l'endroit où on colle le patch chaque jour ?",
+        "question_darija": "علاش لازم نبدلو بلاصة اللصقة كل يوم؟",
+        "answer_fr": "Pour éviter les irritations de la peau. Il ne faut pas coller le nouveau patch au même endroit pendant au moins 14 jours.",
+        "answer_darija": "باش الجلدة ما تطيبش وما تتحسسش. لازم ما تعاودش تحط اللصقة في نفس البلاصة لمدة 14 يوم."
+    },
+    {
+        "id": 73,
+        "theme": "Médicaments et effets secondaires",
+        "question_fr": "Est-ce que les somnifères sont dangereux pour un malade d'Alzheimer ?",
+        "question_darija": "واش منومات النوم فيهم خطر على مريض الزهايمر؟",
+        "answer_fr": "Oui, certains somnifères peuvent augmenter la confusion et le risque de chute. Il faut absolument l'avis du médecin.",
+        "answer_darija": "أي، برشا منومات تنجم تزيد في الدوخة والخلط وتخلي المريض يطيح. لازم موافقة الطبيب قبل كل شيء."
+    },
+    {
+        "id": 74,
+        "theme": "Médicaments et effets secondaires",
+        "question_fr": "Que faire si on a oublié de donner une dose de médicament ?",
+        "question_darija": "شنوة نعملو إذا نسينا ما عطيناش دوزة الدواء؟",
+        "answer_fr": "Ne doublez jamais la dose suivante. Donnez la dose normale au prochain horaire prévu et informez le médecin.",
+        "answer_darija": "ما تعطيوش زوز دوزات مع بعضهم المرة الجاية. اعطي الدوزة العادية في وقتها الجاي وعلم الطبيب."
+    },
+    {
+        "id": 75,
+        "theme": "Médicaments et effets secondaires",
+        "question_fr": "Les médicaments peuvent-ils causer des vertiges ?",
+        "question_darija": "واش الأدوية تنجم تعمل الدوخة للمريض؟",
+        "answer_fr": "Oui, les vertiges sont un effet secondaire possible. Surveillez bien le malade lors de ses déplacements pour éviter les chutes.",
+        "answer_darija": "أي، الدوخة تنجم تكون من الآثار الجانبية. لازم تعس على المريض كيف يقوم ولا يمشي باش ما يطيحش."
+    },
+    {
+        "id": 76,
+        "theme": "Médicaments et effets secondaires",
+        "question_fr": "Pourquoi le médecin demande-t-il souvent des prises de sang ?",
+        "question_darija": "علاش الطبيب ديما يطلب تحاليل دم للمريض؟",
+        "answer_fr": "Pour vérifier si le foie et les reins supportent bien le traitement et ajuster les doses si nécessaire.",
+        "answer_darija": "باش يثبت الي الكبدة والكلاوي قاعدين يتحملو في الدواء، ويعدل الدوزة إذا لزم الأمر."
+    },
+    {
+        "id": 77,
+        "theme": "Médicaments et effets secondaires",
+        "question_fr": "Existe-t-il des médicaments pour calmer l'agressivité ?",
+        "question_darija": "فما أدوية تهدي المريض إذا كان يولي عنيف؟",
+        "answer_fr": "Oui, le médecin peut prescrire des neuroleptiques ou des anxiolytiques, mais seulement si les méthodes non-médicamenteuses ne marchent pas.",
+        "answer_darija": "أي، الطبيب ينجم يعطي أدوية متع أعصاب ولا قلق، أما يستعملوهم كان كيف الحلول الأخرى ما تعطيش نتيجة."
+    },
+    {
+        "id": 78,
+        "theme": "Médicaments et effets secondaires",
+        "question_fr": "Est-ce que le traitement est à vie ?",
+        "question_darija": "واش الدواء يبقى ياخذ فيه طول حياتو؟",
+        "answer_fr": "Généralement oui, tant que le médicament aide à maintenir une certaine qualité de vie, mais le médecin réévalue régulièrement.",
+        "answer_darija": "في العادة أي، مادام الدواء قاعد يعاون المريض، أما الطبيب ديما يثبت في الحالة كل مدة."
+    },
+    {
+        "id": 79,
+        "theme": "Médicaments et effets secondaires",
+        "question_fr": "Pourquoi certains médicaments mettent du temps à agir ?",
+        "question_darija": "علاش فما أدوية تبطى باش تعطي مفعولها؟",
+        "answer_fr": "Il faut souvent plusieurs semaines (4 à 12 semaines) pour observer une amélioration ou une stabilisation des symptômes.",
+        "answer_darija": "لازم برشا مرات نستناو عدة أسابيع (من شهر لـ 3 شهور) باش نشوفو تحسن ولا استقرار في حالة المريض."
+    },
+    {
+        "id": 80,
+        "theme": "Médicaments et effets secondaires",
+        "question_fr": "Peut-on écraser les comprimés si le malade a du mal à avaler ?",
+        "question_darija": "نجمو نكسرو ولا نهرسو الحربوشة إذا المريض ما نجمش يبلعها؟",
+        "answer_fr": "Pas tous. Certains médicaments perdent leur efficacité s'ils sont écrasés. Demandez toujours au pharmacien avant de le faire.",
+        "answer_darija": "مش الكل. فما أدوية مفعولها يمشي كيف تتهرس. لازم ديما تسأل الصيدلي قبل ما تعمل هكا."
+    },
+    {
+        "id": 81,
+        "theme": "Aides financières et administratives",
+        "question_fr": "Quelles sont les aides financières disponibles pour les malades d’Alzheimer en Tunisie ?",
+        "question_darija": "واش هي المساعدات المالية المتوفرة لمرضى الزهايمر في تونس؟",
+        "answer_fr": "Il existe la pension d’invalidité, l’allocation adulte handicapé et certaines aides des associations.",
+        "answer_darija": "فيه معاش العجز، منحة الكبار ذوي الإعاقة وبعض المساعدات من الجمعيات."
+    },
+    {
+        "id": 82,
+        "theme": "Aides financières et administratives",
+        "question_fr": "Comment demander la pension d’invalidité ou l’allocation adulte handicapé ?",
+        "question_darija": "كيفاش نطلب معاش العجز أو المنحة للكبار ذوي الإعاقة؟",
+        "answer_fr": "Déposez un dossier à la CNRPS ou à la CNAM avec un certificat médical.",
+        "answer_darija": "قدم ملف في الـ CNRPS أو الـ CNAM مع شهادة طبية."
+    },
+    {
+        "id": 83,
+        "theme": "Aides financières et administratives",
+        "question_fr": "Est-ce que l’État tunisien donne une aide pour les aidants familiaux ?",
+        "question_darija": "الدولة التونسية تعطي مساعدة للعائلة اللي تهتم بالمريض؟",
+        "answer_fr": "Il n’y a pas encore d’aide directe, mais certaines associations offrent un soutien.",
+        "answer_darija": "ما فيش مساعدة مباشرة بعد، لكن بعض الجمعيات تعطي دعم."
+    },
+    {
+        "id": 84,
+        "theme": "Aides financières et administratives",
+        "question_fr": "Comment obtenir une carte d’invalidité ?",
+        "question_darija": "كيفاش نتحصل على بطاقة الإعاقة؟",
+        "answer_fr": "Faites une demande auprès de la Commission Médicale du Ministère des Affaires Sociales.",
+        "answer_darija": "قدم طلب للجنة الطبية بوزارة الشؤون الاجتماعية."
+    },
+    {
+        "id": 85,
+        "theme": "Aides financières et administratives",
+        "question_fr": "Y a-t-il des réductions sur les médicaments et les soins ?",
+        "question_darija": "فيه تخفيضات على الأدوية والعلاجات؟",
+        "answer_fr": "Oui, avec la carte d’invalidité ou la CNAM, certains médicaments sont remboursés partiellement.",
+        "answer_darija": "أي، بالبطاقة الإعاقة أو الـ CNAM بعض الأدوية يتغطاو جزئياً."
+    },
+    {
+        "id": 86,
+        "theme": "Aides financières et administratives",
+        "question_fr": "Que faire si la famille n’a pas assez d’argent pour les soins ?",
+        "question_darija": "شنوة نعملوا إذا كانت العائلة ما عندهاش فلوس كافية للعلاج؟",
+        "answer_fr": "Contactez les services sociaux ou les associations comme l’Association Tunisienne Alzheimer.",
+        "answer_darija": "اتصل بخدمات الشؤون الاجتماعية أو جمعية الزهايمر التونسية."
+    },
+    {
+        "id": 87,
+        "theme": "Aides financières et administratives",
+        "question_fr": "Comment déclarer un proche atteint d’Alzheimer à la CNAM ?",
+        "question_darija": "كيفاش نسجّل قريب مصاب بالزهايمر في الـ CNAM؟",
+        "answer_fr": "Allez à la CNAM avec un certificat médical du neurologue.",
+        "answer_darija": "روح للـ CNAM مع شهادة طبية من طبيب أعصاب."
+    },
+    {
+        "id": 88,
+        "theme": "Aides financières et administratives",
+        "question_fr": "Existe-t-il des associations qui aident financièrement les familles ?",
+        "question_darija": "فيه جمعيات تساعد العائلات مالياً؟",
+        "answer_fr": "Oui, l’Association Tunisienne Alzheimer et certaines ONG locales.",
+        "answer_darija": "أي، جمعية الزهايمر التونسية وبعض المنظمات."
+    },
+    {
+        "id": 89,
+        "theme": "Aides financières et administratives",
+        "question_fr": "Quelles sont les démarches pour avoir une aide à domicile ?",
+        "question_darija": "شنوة الإجراءات باش نحصلو على مساعدة في الدار؟",
+        "answer_fr": "Faites une demande auprès des services sociaux du ministère de la Santé.",
+        "answer_darija": "قدم طلب لخدمات الشؤون الاجتماعية بوزارة الصحة."
+    },
+    {
+        "id": 90,
+        "theme": "Aides financières et administratives",
+        "question_fr": "Est-ce qu’il y a des exonérations fiscales pour les familles ?",
+        "question_darija": "فيه إعفاءات ضريبية للعائلات اللي عندها مريض؟",
+        "answer_fr": "Oui, les familles ayant une personne handicapée peuvent bénéficier d’exonérations fiscales.",
+        "answer_darija": "أي، العائلات اللي عندها شخص معاق ينجمو يستفيدو من إعفاءات ضريبية."
+    },
+    {
+        "id": 91,
+        "theme": "Aides financières et administratives",
+        "question_fr": "C'est quoi la prise en charge en APCI à la CNAM ?",
+        "question_darija": "شنوة معناها الـ APCI في الكنام (CNAM)؟",
+        "answer_fr": "C'est la prise en charge des Affections au Long Cours (maladies chroniques). Elle permet d'être remboursé à 100% pour les soins liés directement à Alzheimer selon le tarif conventionnel.",
+        "answer_darija": "هي التكفل بالأمراض المزمنة. تخليك ترجع فلوس الدوايات والعلاج متع الزهايمر 100% حسب تعريفة الكنام."
+    },
+    {
+        "id": 92,
+        "theme": "Aides financières et administratives",
+        "question_fr": "Comment préparer le dossier médical pour la CNAM ?",
+        "question_darija": "كيفاش نحضر الملف الطبي للكنام؟",
+        "answer_fr": "Il faut un rapport détaillé du neurologue ou du psychiatre, le formulaire de demande d'APCI rempli par le médecin, et une copie de la carte d'assuré social.",
+        "answer_darija": "لازم تقرير مفصل من طبيب أعصاب ولا طبيب نفسي، المطبوعة متع الـ APCI يعمرها الطبيب، ونسخة من بطاقة الكنام."
+    },
+    {
+        "id": 93,
+        "theme": "Aides financières et administratives",
+        "question_fr": "Le malade a-t-il droit à des couches gratuites ?",
+        "question_darija": "واش المريض عندو الحق في حفاضات (couches) بلاش؟",
+        "answer_fr": "Certaines structures de santé publique ou associations peuvent en fournir, mais à la CNAM, cela dépend de votre régime et de l'accord préalable.",
+        "answer_darija": "فما سبيطارات تابعة الدولة ولا جمعيات تنجم تعطي، أما في الكنام الحكاية مربوطة بنوع المنظومة متعك وموافقة الطبيب متعهم."
+    },
+    {
+        "id": 94,
+        "theme": "Aides financières et administratives",
+        "question_fr": "Comment protéger les biens du malade (Tutelle/Curatelle) ?",
+        "question_darija": "كيفاش نحمي أملاك المريض (القوامة)؟",
+        "answer_fr": "Il faut engager une procédure de 'Tutelle' (الحجر) auprès du Tribunal de Première Instance pour désigner un membre de la famille comme tuteur légal.",
+        "answer_darija": "لازم تعمل إجراءات 'القوامة' ولا 'الحجر' في المحكمة الابتدائية باش المحكمة تعين واحد من العائلة يتصرف في أمورو القانونية والمالية."
+    },
+    {
+        "id": 95,
+        "theme": "Aides financières et administratives",
+        "question_fr": "Qui a le droit de signer à la place du malade ?",
+        "question_darija": "شكون عندو الحق يصحح في بلاصة المريض؟",
+        "answer_fr": "Seul le tuteur désigné par le juge peut signer les documents officiels ou vendre des biens au nom du malade.",
+        "answer_darija": "كان القَيّم (tuteur) الي تعينو المحكمة هو الي عندو الحق يصحح في الأوراق الرسمية ولا يبيع ويشري باسم المريض."
+    },
+    {
+        "id": 96,
+        "theme": "Aides financières et administratives",
+        "question_fr": "Est-ce que le malade peut garder son salaire ou sa retraite ?",
+        "question_darija": "واش المريض يبقى ياخذ شهريتو ولا جراية التقاعد متاعو؟",
+        "answer_fr": "Oui, mais si ses facultés mentales ne lui permettent plus de gérer l'argent, la banque demandera un document de tutelle pour que l'aidant puisse retirer les fonds.",
+        "answer_darija": "أي، أما إذا كان ما عادش ينجم يتصرف، البانكة تنجم تطلب ورقة من المحكمة باش يولي القريب متاعو هو الي يجبد الفلوس."
+    },
+    {
+        "id": 97,
+        "theme": "Aides financières et administratives",
+        "question_fr": "Y a-t-il des centres de jour pour Alzheimer en Tunisie ?",
+        "question_darija": "فما مراكز نهارية لمرضى الزهايمر في تونس؟",
+        "answer_fr": "Oui, il existe quelques centres (comme celui de l'Association Tunisienne Alzheimer) qui accueillent les malades la journée pour des activités.",
+        "answer_darija": "أي، فما مراكز قليلة (كيف المركز متع جمعية الزهايمر التونسية) الي يستقبلو المرضى في النهار باش يعملو نشاطات ويرجعو لدارهم العشية."
+    },
+    {
+        "id": 98,
+        "theme": "Aides financières et administratives",
+        "question_fr": "Peut-on obtenir un fauteuil roulant gratuitement ?",
+        "question_darija": "نجمو نتحصلو على كرسي متحرك بلاش؟",
+        "answer_fr": "Vous pouvez faire une demande d'appareillage à la CNAM ou contacter des associations caritatives qui font des dons de matériel médical.",
+        "answer_darija": "تنجم تقدم مطلب 'آلات مساعدة' للكنام ولا تتصل بجمعيات خيرية الي يعطيو الكراسي والمعدات الطبية."
+    },
+    {
+        "id": 99,
+        "theme": "Aides financières et administratives",
+        "question_fr": "Où se trouve l'Association Tunisienne d'Alzheimer (ATA) ?",
+        "question_darija": "وين نلقاو مقر جمعية الزهايمر التونسية؟",
+        "answer_fr": "Leur bureau principal est à Tunis. Vous pouvez les contacter pour des conseils, des formations pour aidants et un soutien psychologique.",
+        "answer_darija": "المقر متاعهم في تونس العاصمة. تنجم تكلمهم باش يعاونوك بنصايح، وتدريبات للعائلات ودعم نفسي."
+    },
+    {
+        "id": 100,
+        "theme": "Aides financières et administratives",
+        "question_fr": "Quelles sont les démarches si le malade doit entrer en maison de retraite ?",
+        "question_darija": "شنوة الإجراءات إذا كان المريض لازم يمشي لدار مسنين؟",
+        "answer_fr": "Il faut un dossier médical complet et l'accord de la famille ou du tuteur, puis contacter les centres spécialisés publics ou privés.",
+        "answer_darija": "لازم ملف طبي كامل وموافقة العائلة ولا القَيّم، ومن بعد تتصل بالمراكز المختصة سواء متع الدولة ولا الخواص."
+    },
+    {
+        "id": 101,
+        "theme": "Soutien psychologique pour les aidants",
+        "question_fr": "Pourquoi les aidants familiaux sont souvent épuisés ?",
+        "question_darija": "علاش المسؤولين على المريض يتعبوا برشا؟",
+        "answer_fr": "Parce qu’ils s’occupent 24h/24 sans repos, avec beaucoup de stress et peu de moments pour eux.",
+        "answer_darija": "لأنو يخدمو 24 ساعة على 24 بدون راحة، مع ضغط كبير وقلة وقت لروحهم."
+    },
+    {
+        "id": 102,
+        "theme": "Soutien psychologique pour les aidants",
+        "question_fr": "Comment gérer le stress et la fatigue quand on s’occupe d’un malade ?",
+        "question_darija": "كيفاش نتحكم في الضغط والتعب لما نهتم بمريض؟",
+        "answer_fr": "Prenez des pauses régulières, demandez de l’aide à la famille et pratiquez la respiration profonde.",
+        "answer_darija": "خذ راحات منتظمة، اطلب مساعدة من العائلة ومارس التنفس العميق."
+    },
+    {
+        "id": 103,
+        "theme": "Soutien psychologique pour les aidants",
+        "question_fr": "Où trouver un soutien psychologique gratuit en Tunisie ?",
+        "question_darija": "فين نلقاو دعم نفسي مجاني في تونس؟",
+        "answer_fr": "Aux hôpitaux publics, centres de santé de base ou dans les associations comme l’Association Tunisienne Alzheimer.",
+        "answer_darija": "في المستشفيات العمومية، المراكز الصحية الأساسية أو جمعية الزهايمر."
+    },
+    {
+        "id": 104,
+        "theme": "Soutien psychologique pour les aidants",
+        "question_fr": "Est-ce normal de se sentir coupable ou en colère ?",
+        "question_darija": "واش طبيعي نحس بالذنب أو بالغضب؟",
+        "answer_fr": "Oui, c’est tout à fait normal. Beaucoup d’aidants ressentent ces émotions.",
+        "answer_darija": "أي، هذا طبيعي برشا. برشا مسؤولين يحسوا بهذي المشاعر."
+    },
+    {
+        "id": 105,
+        "theme": "Soutien psychologique pour les aidants",
+        "question_fr": "Comment éviter le burn-out de l’aidant ?",
+        "question_darija": "كيفاش نتجنب الاحتراق النفسي للمسؤول عن المريض؟",
+        "answer_fr": "Acceptez de l’aide, fixez des limites et prenez du temps pour vous chaque jour.",
+        "answer_darija": "اقبل المساعدة، حدد حدود وخذ وقت لروحك كل يوم."
+    },
+    {
+        "id": 106,
+        "theme": "Soutien psychologique pour les aidants",
+        "question_fr": "Faut-il parler à un psychologue même si on n’est pas déprimé ?",
+        "question_darija": "لازم نحكي مع طبيب نفساني حتى لو ما كنتش مكتئب؟",
+        "answer_fr": "Oui, c’est très utile pour éviter l’épuisement et mieux gérer le stress.",
+        "answer_darija": "أي، هذا مفيد برشا باش نتجنب التعب النفسي ونحسن التحكم في الضغط."
+    },
+    {
+        "id": 107,
+        "theme": "Soutien psychologique pour les aidants",
+        "question_fr": "Existe-t-il des groupes de parole pour les familles en Tunisie ?",
+        "question_darija": "فيه مجموعات حوار للعائلات في تونس؟",
+        "answer_fr": "Oui, certaines associations comme l’Association Tunisienne Alzheimer organisent des groupes de parole.",
+        "answer_darija": "أي، بعض الجمعيات مثل جمعية الزهايمر التونسية تنظم مجموعات حوار."
+    },
+    {
+        "id": 108,
+        "theme": "Soutien psychologique pour les aidants",
+        "question_fr": "Comment demander de l’aide à la famille sans se sentir faible ?",
+        "question_darija": "كيفاش نطلب المساعدة من العائلة بدون ما نحس بالضعف؟",
+        "answer_fr": "Expliquez simplement que vous avez besoin d’aide pour mieux prendre soin du malade.",
+        "answer_darija": "شرح ببساطة إنك تحتاج مساعدة باش تهتم أحسن بالمريض."
+    },
+    {
+        "id": 109,
+        "theme": "Soutien psychologique pour les aidants",
+        "question_fr": "Quelles activités permettent de se reposer mentalement ?",
+        "question_darija": "شنوة الأنشطة اللي تريح البال؟",
+        "answer_fr": "La marche, la lecture, l’écoute de musique ou passer du temps avec des amis.",
+        "answer_darija": "المشي، القراءة، الاستماع للموسيقى أو قضاء وقت مع أصحاب."
+    },
+    {
+        "id": 110,
+        "theme": "Soutien psychologique pour les aidants",
+        "question_fr": "Comment protéger sa propre santé quand on est aidant principal ?",
+        "question_darija": "كيفاش نحمي صحتي أنا لما أنا المسؤول الرئيسي على المريض؟",
+        "answer_fr": "Dormez suffisamment, mangez bien, prenez des pauses et acceptez l’aide des autres.",
+        "answer_darija": "نام كفاية، كل مليح، خذ راحات واقبل مساعدة الآخرين."
+    },
+    {
+        "id": 111,
+        "theme": "Soutien psychologique pour les aidants",
+        "question_fr": "C'est quoi le 'droit au répit' pour un aidant ?",
+        "question_darija": "شنوة معناه 'الحق في الراحة' (droit au répit) للي لاهي بالمريض؟",
+        "answer_fr": "C'est le droit de passer le relais à quelqu'un d'autre (famille, infirmiers, centre) pour se reposer quelques jours et reprendre des forces.",
+        "answer_darija": "هو حقك باش تسلم المشعل لشخص آخر (عائلة، فرملي، ولا مركز مختص) باش ترتاح أيام وتسترجع قوتك."
+    },
+    {
+        "id": 112,
+        "theme": "Soutien psychologique pour les aidants",
+        "question_fr": "Comment gérer le sentiment de deuil alors que le malade est encore en vie ?",
+        "question_darija": "كيفاش نتعامل مع إحساس الفراق والمريض مازال حي؟",
+        "answer_fr": "C'est le 'deuil blanc'. Il est normal d'être triste car la personnalité du proche change. En parler avec un psy ou un groupe de parole aide beaucoup.",
+        "answer_darija": "يتسمى 'الفراق الأبيض'. عادي تحس بالحزن خاطر شخصية قريبك تبدلت. الكلام مع مختص ولا مجموعة دعم يعاون برشا."
+    },
+    {
+        "id": 113,
+        "theme": "Soutien psychologique pour les aidants",
+        "question_fr": "Pourquoi je me sens en colère contre le malade alors qu'il n'y peut rien ?",
+        "question_darija": "علاش ساعات نتغشش على المريض وهو مش بيده؟",
+        "answer_fr": "La colère est une réaction humaine à la fatigue et à l'impuissance. Ne vous culpabilisez pas, c'est un signe que vous avez besoin de repos.",
+        "answer_darija": "الغضب رد فعل طبيعي للتعب وقلة الحيلة. ما تحسش بالذنب، هذي علامة الي انت لازمك ترتاح شوية."
+    },
+    {
+        "id": 114,
+        "theme": "Soutien psychologique pour les aidants",
+        "question_fr": "Comment expliquer la maladie aux enfants ou petits-enfants ?",
+        "question_darija": "كيفاش نفسر المرض للصغار ولا الأحفاد؟",
+        "answer_fr": "Utilisez des mots simples : expliquez que le cerveau est 'fatigué' ou 'malade' et que ce n'est pas de leur faute si papy/mamie oublie ou s'énerve.",
+        "answer_darija": "استعمل كلمات ساهلة: فسرلهم الي المخ 'تعب' ولا 'مريض' ومش ذنبهم كان الجد ولا الجدة ينسى ولا يتغشش."
+    },
+    {
+        "id": 115,
+        "theme": "Soutien psychologique pour les aidants",
+        "question_fr": "Est-ce que je dois m'isoler pour m'occuper du malade ?",
+        "question_darija": "لازم نبعد على الناس باش نتفرغ للمريض؟",
+        "answer_fr": "Au contraire, l'isolement augmente le stress. Gardez un lien avec vos amis et sortez au moins une fois par semaine sans parler de la maladie.",
+        "answer_darija": "بالعكس، الوحدة تزيد في الستريس. ابقى على اتصال بأصحابك واخرج مرة في الجمعة على الأقل من غير ما تحكي على المرض."
+    },
+    {
+        "id": 116,
+        "theme": "Soutien psychologique pour les aidants",
+        "question_fr": "Comment réagir quand l'entourage critique ma façon de m'occuper du malade ?",
+        "question_darija": "كيفاش نتصرف كيف الناس يبداو ينقدو فيا وفي طريقتي مع المريض؟",
+        "answer_fr": "Faites confiance à votre expérience quotidienne. Invitez les critiques à s'occuper du malade une journée entière pour qu'ils comprennent la réalité.",
+        "answer_darija": "ثق في خبرتك اليومية. والناس الي تنقد، استدعاهم يشدوا المريض نهار كامل باش يفهموا الحقيقة والصعوبات."
+    },
+    {
+        "id": 117,
+        "theme": "Soutien psychologique pour les aidants",
+        "question_fr": "Quels sont les signes physiques du burn-out chez l'aidant ?",
+        "question_darija": "شنوة هي العلامات الي بدني يظهرها كيف نوصل للاحتراق النفسي؟",
+        "answer_fr": "Maux de dos, insomnies, palpitations, perte d'appétit ou pleurs fréquents. Si vous avez ces signes, consultez un médecin.",
+        "answer_darija": "وجيعة ظهر، قلق في النوم، دقة قلب قوية، نقص ماكلة ولا بكاء ديما. كان عندك العلامات هذي لازم تشوف طبيب."
+    },
+    {
+        "id": 118,
+        "theme": "Soutien psychologique pour les aidants",
+        "question_fr": "Comment ne pas oublier sa propre vie (travail, loisirs) ?",
+        "question_darija": "كيفاش ما ننساش حياتي الخاصة (خدمتي، جوي)؟",
+        "answer_fr": "Fixez des priorités. Déléguez certaines tâches ménagères ou administratives pour garder du temps pour vos projets personnels.",
+        "answer_darija": "حدد أولوياتك. حاول تعطي شكون يعاونك في قضية الدار ولا الأوراق باش تخلي وقت لمشاريعك وجوك الخاص."
+    },
+    {
+        "id": 119,
+        "theme": "Soutien psychologique pour les aidants",
+        "question_fr": "Pourquoi est-il important de rire avec le malade ?",
+        "question_darija": "علاش مهم نضحكو ونفدلكو مع المريض؟",
+        "answer_fr": "Le rire libère des hormones de bien-être. Partager un moment joyeux réduit l'agressivité du malade et le stress de l'aidant.",
+        "answer_darija": "الضحك يخرج هرمونات الراحة. كيف تضحكو مع بعضكم، ينقص الغضب عند المريض والضغط عندك انت."
+    },
+    {
+        "id": 120,
+        "theme": "Soutien psychologique pour les aidants",
+        "question_fr": "C'est quoi la 'validation' émotionnelle ?",
+        "question_darija": "شنوة معناها 'تقبل' مشاعر المريض؟",
+        "answer_fr": "C'est accepter l'émotion du malade sans le contredire. S'il est triste, dites 'je vois que tu es triste' au lieu de dire 'ce n'est rien'.",
+        "answer_darija": "معناها تقبل إحساسو من غير ما تعارضو. إذا كان حزين، قولو 'ظاهر فيك متغشش' في بلاصة ما تقولو 'ما فما شيء'."
+    },
+    {
+        "id": 121,
+        "theme": "Quand consulter un médecin",
+        "question_fr": "Quels signes montrent qu’il faut consulter un neurologue rapidement ?",
+        "question_darija": "واش هي العلامات اللي توضح إن لازم نروح لطبيب أعصاب بسرعة؟",
+        "answer_fr": "Perte soudaine de mémoire, confusion importante, difficultés à parler ou à marcher.",
+        "answer_darija": "نسيان مفاجئ، خلط كبير، صعوبة في الكلام أو المشي."
+    },
+    {
+        "id": 122,
+        "theme": "Quand consulter un médecin",
+        "question_fr": "Quand faut-il aller aux urgences avec un malade d’Alzheimer ?",
+        "question_darija": "متى لازم نروح للمستعجلة مع مريض الزهايمر؟",
+        "answer_fr": "En cas de chute grave, perte de conscience, fièvre élevée ou comportement très dangereux.",
+        "answer_darija": "في حالة سقوط خطير، فقدان الوعي، حمى عالية أو سلوك خطر جدا."
+    },
+    {
+        "id": 123,
+        "theme": "Quand consulter un médecin",
+        "question_fr": "Comment préparer la visite chez le neurologue ?",
+        "question_darija": "كيفاش نحضرو الزيارة عند طبيب الأعصاب؟",
+        "answer_fr": "Notez tous les symptômes observés et apportez la liste des médicaments.",
+        "answer_darija": "اكتب كل الأعراض اللي لاحظتها وجيب قائمة الأدوية."
+    },
+    {
+        "id": 124,
+        "theme": "Quand consulter un médecin",
+        "question_fr": "Quels examens sont nécessaires pour confirmer le diagnostic ?",
+        "question_darija": "شنوة الفحوصات اللازمة باش نأكدو التشخيص؟",
+        "answer_fr": "IRM cérébrale, tests de mémoire et bilan sanguin.",
+        "answer_darija": "تصوير بالرنين المغناطيسي، اختبارات الذاكرة وتحاليل دم."
+    },
+    {
+        "id": 125,
+        "theme": "Quand consulter un médecin",
+        "question_fr": "Est-ce qu’une IRM suffit pour diagnostiquer l’Alzheimer ?",
+        "question_darija": "الـ IRM تكفي باش نشخصو الزهايمر؟",
+        "answer_fr": "L’IRM aide beaucoup, mais le diagnostic complet inclut aussi les tests cognitifs.",
+        "answer_darija": "الـ IRM تساعد برشا، لكن التشخيص الكامل يحتاج اختبارات الذاكرة."
+    },
+    {
+        "id": 126,
+        "theme": "Quand consulter un médecin",
+        "question_fr": "Que faire en cas de chute ou de blessure à la maison ?",
+        "question_darija": "شنوة نعملوا إذا كان المريض وقع أو تجرح في الدار؟",
+        "answer_fr": "Vérifiez la gravité de la blessure et consultez rapidement un médecin.",
+        "answer_darija": "شوف درجة الجرح وروح للطبيب بسرعة."
+    },
+    {
+        "id": 127,
+        "theme": "Quand consulter un médecin",
+        "question_fr": "Quand faut-il appeler le SAMU (118 ou 190) ?",
+        "question_darija": "متى لازم نتصلو بالإسعاف (118 أو 190)؟",
+        "answer_fr": "En cas de perte de conscience, difficulté à respirer ou chute grave.",
+        "answer_darija": "في حالة فقدان الوعي، صعوبة في التنفس أو سقوط خطير."
+    },
+    {
+        "id": 128,
+        "theme": "Quand consulter un médecin",
+        "question_fr": "Comment expliquer la maladie au médecin généraliste ?",
+        "question_darija": "كيفاش نحكي للطبيب العام على المرض؟",
+        "answer_fr": "Décrivez clairement les changements observés (oubli, confusion, changement de comportement).",
+        "answer_darija": "وصف التغييرات اللي لاحظتها بوضوح (نسيان، خلط، تغيير في السلوك)."
+    },
+    {
+        "id": 129,
+        "theme": "Quand consulter un médecin",
+        "question_fr": "Faut-il faire un bilan sanguin régulièrement ?",
+        "question_darija": "لازم نعمل تحاليل دم بانتظام؟",
+        "answer_fr": "Oui, surtout pour vérifier la vitamine B12, la thyroïde et le sucre.",
+        "answer_darija": "أي، خاصة باش نشوفو فيتامين B12 والغدة الدرقية والسكر."
+    },
+    {
+        "id": 130,
+        "theme": "Quand consulter un médecin",
+        "question_fr": "Que faire si le malade refuse d’aller chez le médecin ?",
+        "question_darija": "شنوة نعملوا إذا كان المريض يرفض يروح عند الطبيب؟",
+        "answer_fr": "Expliquez-lui calmement l’importance de la visite et proposez d’y aller ensemble.",
+        "answer_darija": "شرحلو بهدوء أهمية الزيارة واقترح نروحو مع بعضنا."
+    },
+    {
+        "id": 131,
+        "theme": "Quand consulter un médecin",
+        "question_fr": "Quels sont les signes d'une infection urinaire chez un patient Alzheimer ?",
+        "question_darija": "شنوة هي علامات تعفن المسالك البولية عند مريض الزهايمر؟",
+        "answer_fr": "Une confusion soudaine, une forte agitation ou une perte d'appétit brutale sont souvent des signes d'infection urinaire chez les seniors.",
+        "answer_darija": "خلط ذهني مفاجئ، قلق كبير والا نقص ماكلة فرد جنبة، برشا مرات تكون علامات تعفن في البول عند الكبار."
+    },
+    {
+        "id": 132,
+        "theme": "Quand consulter un médecin",
+        "question_fr": "Le malade a soudainement du mal à avaler, que faire ?",
+        "question_darija": "المريض فجأة ولى يغص وما عادش ينجم يبلع الماكلة، شنوة نعمل؟",
+        "answer_fr": "C'est un trouble de la déglutition (fausse route). Consultez un médecin ou un orthophoniste pour adapter la texture des repas (haché ou mixé).",
+        "answer_darija": "تسمى 'غصة' (fausse route). لازم تشوف طبيب ولا مختص في النطق (orthophoniste) باش تبدلو طبيعة الماكلة (مهروسة ولا مرحية)."
+    },
+    {
+        "id": 133,
+        "theme": "Quand consulter un médecin",
+        "question_fr": "Pourquoi le malade est-il devenu très calme et ne répond plus ?",
+        "question_darija": "علاش المريض ولى ساكت برشا وما عادش يجاوب جملة؟",
+        "answer_fr": "Un changement brusque vers l'apathie totale peut cacher une douleur physique ou une dépression. Il faut consulter pour vérifier son état de santé général.",
+        "answer_darija": "كيف يتبدل فرد جنبة ويولي ما عادش يتحرك، ينجم يكون عندو وجيعة مخبيها ولا اكتئاب. لازم طبيب يثبت في صحتو."
+    },
+    {
+        "id": 134,
+        "theme": "Quand consulter un médecin",
+        "question_fr": "Comment savoir si le malade a une douleur s'il ne peut plus parler ?",
+        "question_darija": "كيفاش نعرف الي المريض موجوع وهو ما عادش ينجم يتكلم؟",
+        "answer_fr": "Observez les expressions du visage (grimaces), les gémissements, l'agitation inhabituelle ou le refus d'être touché.",
+        "answer_darija": "ثبت في ملامح وجهو (يكرّش وجهو)، الأنين، القلق الي مش عادي، ولا كيف يرفض باش حد يمسو."
+    },
+    {
+        "id": 135,
+        "theme": "Quand consulter un médecin",
+        "question_fr": "Que faire si le malade a pris trop de médicaments par erreur ?",
+        "question_darija": "شنوة نعمل إذا كان المريض غلط وشرب برشا دواء فرد وقت؟",
+        "answer_fr": "Appelez immédiatement le SAMU (190) ou le centre antipoison, même s'il n'a pas de symptômes visibles sur le moment.",
+        "answer_darija": "كلم الإسعاف (190) فوراً، حتى كان يظهرلك الي هو لباس وما عندو حتى علامة متع تسمم."
+    },
+    {
+        "id": 136,
+        "theme": "Quand consulter un médecin",
+        "question_fr": "Le malade a un côté du visage qui tombe ou un bras faible, est-ce urgent ?",
+        "question_darija": "وجه المريض ولى مايل من شيرة ولا يدو ولات مرخية، هل هذي حالة استعجالية؟",
+        "answer_fr": "Oui, ce sont des signes d'AVC. Appelez le 190 immédiatement. Chaque minute compte pour sauver le cerveau.",
+        "answer_darija": "أي، هذي علامات جلطة دماغية (AVC). كلم الـ 190 فيسع. كل دقيقة بحسابها باش تنقذلو مخو."
+    },
+    {
+        "id": 137,
+        "theme": "Quand consulter un médecin",
+        "question_fr": "Pourquoi faut-il vérifier la vue et l'audition régulièrement ?",
+        "question_darija": "علاش لازم نثبتو في النظر والسمع متاعو ديما؟",
+        "answer_fr": "Parce qu'une mauvaise vue ou audition aggrave la confusion et l'isolement du malade. Bien voir et entendre aide à garder ses repères.",
+        "answer_darija": "خاطر كيف يبدا ما يشوفش ولا ما يسمعش مليح، يولي يغلط ويدوخ أكثر ويبعد على الناس. السمع والنظر يعاونوه باش يبقى فايق بالي داير بيه."
+    },
+    {
+        "id": 138,
+        "theme": "Quand consulter un médecin",
+        "question_fr": "Le malade refuse catégoriquement de boire depuis 24h, est-ce grave ?",
+        "question_darija": "المريض عندو نهار كامل ما حبش يشرب حتى قطرة ماء، هل هذا خطر؟",
+        "answer_fr": "Oui, le risque de déshydratation est très rapide chez les personnes âgées. Appelez un médecin si vous n'arrivez pas à lui faire boire de petites gorgées.",
+        "answer_darija": "أي، خطر الشياح (déshydratation) كبير عند الكبار. كلم الطبيب إذا كان ما نجمتش تشربو حتى شوية ماء بالسياسة."
+    },
+    {
+        "id": 139,
+        "theme": "Quand consulter un médecin",
+        "question_fr": "C'est quoi un 'test neuropsychologique' ?",
+        "question_darija": "شنوة هو 'الاختبار النفسي العصبي' (test neuropsychologique)؟",
+        "answer_fr": "C'est une série d'exercices (dessin, calcul, mémoire) faite par un psychologue spécialisé pour évaluer précisément quelles parties du cerveau sont touchées.",
+        "answer_darija": "هو مجموعة تمارين (رسم، حساب، ذاكرة) يعملهم مختص باش يعرف بالضبط اناهي البلايص في المخ الي تأثرت بالمرض."
+    },
+    {
+        "id": 140,
+        "theme": "Quand consulter un médecin",
+        "question_fr": "Le malade délire et voit des gens qui ne sont pas là, faut-il s'inquiéter ?",
+        "question_darija": "المريض بدا يخرف ويشوف في عباد مش موجودين، هل هذا يخوف؟",
+        "answer_fr": "S'il n'avait jamais eu d'hallucinations avant, cela peut être dû à un nouveau médicament ou une infection. Parlez-en rapidement au neurologue.",
+        "answer_darija": "إذا كان أول مرة يهلوس، ينجم يكون من دواء جديد خذاه ولا تعفن. لازم تحكي مع طبيب الأعصاب في أقرب وقت."
+    },
+    {
+        "id": 141,
+        "theme": "Communication avec le malade",
+        "question_fr": "Comment parler à une personne qui a Alzheimer ?",
+        "question_darija": "كيفاش نحكي مع شخص عندو الزهايمر؟",
+        "answer_fr": "Parlez lentement, avec des phrases courtes et simples, en regardant la personne dans les yeux.",
+        "answer_darija": "حكي ببطء، بجمل قصيرة وبسيطة، وشوف في عينيها."
+    },
+    {
+        "id": 142,
+        "theme": "Communication avec le malade",
+        "question_fr": "Que faire quand le malade ne comprend plus ce qu’on lui dit ?",
+        "question_darija": "شنوة نعملوا لما المريض ما يفهمش كلامنا؟",
+        "answer_fr": "Utilisez des gestes, montrez des objets ou des images.",
+        "answer_darija": "استعمل إشارات، وري أشياء أو صور."
+    },
+    {
+        "id": 143,
+        "theme": "Communication avec le malade",
+        "question_fr": "Comment éviter les disputes inutiles ?",
+        "question_darija": "كيفاش نتجنب الجدال والمشاكل بدون فايدة؟",
+        "answer_fr": "Ne corrigez pas tout. Changez de sujet ou acceptez sa version.",
+        "answer_darija": "ما تصححش كل شيء. غيّر الموضوع أو اقبل نسختو."
+    },
+    {
+        "id": 144,
+        "theme": "Communication avec le malade",
+        "question_fr": "Faut-il corriger le malade quand il dit des choses fausses ?",
+        "question_darija": "لازم نصححو المريض لما يقول حاجات غلط؟",
+        "answer_fr": "Non, cela peut le stresser. Préférez la distraction.",
+        "answer_darija": "لا، هذا يقدر يزيدو توتر. أفضل تحويل الانتباه."
+    },
+    {
+        "id": 145,
+        "theme": "Communication avec le malade",
+        "question_fr": "Comment utiliser des gestes et des images pour mieux communiquer ?",
+        "question_darija": "كيفاش نستعملو الإشارات والصور باش نفهمو أحسن؟",
+        "answer_fr": "Montrez des photos de famille ou des images simples.",
+        "answer_darija": "وري صور العائلة أو صور بسيطة."
+    },
+    {
+        "id": 146,
+        "theme": "Communication avec le malade",
+        "question_fr": "Que dire quand le malade pose la même question 20 fois ?",
+        "question_darija": "شنوة نقولو لما المريض يعاود نفس السؤال 20 مرة؟",
+        "answer_fr": "Répondez calmement à chaque fois avec la même phrase courte.",
+        "answer_darija": "جاوب بهدوء كل مرة بنفس الجملة القصيرة."
+    },
+    {
+        "id": 147,
+        "theme": "Communication avec le malade",
+        "question_fr": "Comment exprimer l’amour et le respect malgré la maladie ?",
+        "question_darija": "كيفاش نعبرلو على الحب والاحترام رغم المرض؟",
+        "answer_fr": "Dites-lui souvent « Je t’aime », touchez-lui la main et traitez-le avec dignité.",
+        "answer_darija": "قولو « نحبك » باستمرار، مسك يدو واستمر في معاملتو بكرامة."
+    },
+    {
+        "id": 148,
+        "theme": "Communication avec le malade",
+        "question_fr": "Faut-il parler lentement ou normalement ?",
+        "question_darija": "لازم نحكي ببطء ولا بالطريقة العادية؟",
+        "answer_fr": "Parlez lentement et clairement avec un ton doux.",
+        "answer_darija": "حكي ببطء وواضح بصوت ناعم."
+    },
+    {
+        "id": 149,
+        "theme": "Communication avec le malade",
+        "question_fr": "Comment gérer le silence ou le mutisme du malade ?",
+        "question_darija": "كيفاش نتعامل مع الصمت أو لما المريض ما يتكلمش؟",
+        "answer_fr": "Restez à ses côtés sans forcer la conversation.",
+        "answer_darija": "ابقى جنبو بدون ما تجبر الحديث."
+    },
+    {
+        "id": 150,
+        "theme": "Communication avec le malade",
+        "question_fr": "Quels mots éviter pour ne pas blesser le malade ?",
+        "question_darija": "شنوة الكلمات اللي لازم نتجنبوهم باش ما نجرحوش المريض؟",
+        "answer_fr": "Évitez « Tu as oublié ? », « Tu ne sais plus ? » ou « C’est évident ! ».",
+        "answer_darija": "تجنب « نسيت؟ »، « ما تعرفش بعد؟ » أو « هذا واضح ! »."
+    },
+    {
+        "id": 151,
+        "theme": "Communication avec le malade",
+        "question_fr": "Comment capter l'attention du malade avant de lui parler ?",
+        "question_darija": "كيفاش نخلي المريض ينتبهلي قبل ما نبدأ نحكي معاه؟",
+        "answer_fr": "Approchez-vous doucement par l'avant, appelez-le par son nom et établissez un contact visuel avant de parler.",
+        "answer_darija": "قربلو بشوية من قدامو، عيطلو باسمو وثبت عينيك في عينيه قبل ما تبدأ تحكي."
+    },
+    {
+        "id": 152,
+        "theme": "Communication avec le malade",
+        "question_fr": "Que faire si le malade utilise des mots qui n'existent pas ?",
+        "question_darija": "شنوة نعمل إذا كان المريض ولى يخترع في كلمات مش موجودة؟",
+        "answer_fr": "N'essayez pas de le corriger. Essayez de deviner le sens par le contexte ou ses gestes et répondez au sentiment qu'il exprime.",
+        "answer_darija": "ما تحاولش تصلحلو. حاول افهم المعنى من الحركات متاعو وجاوب على الإحساس الي يحب يوصلو."
+    },
+    {
+        "id": 153,
+        "theme": "Communication avec le malade",
+        "question_fr": "Comment poser une question sans l'embrouiller ?",
+        "question_darija": "كيفاش نسألو سؤال من غير ما ندوخو؟",
+        "answer_fr": "Posez une seule question à la fois et proposez des choix fermés (Voulez-vous du café ou du thé ?) au lieu de questions ouvertes.",
+        "answer_darija": "اسألو سؤال واحد بركة كل مرة، واعطيه اختيار بين زوز حاجات (تحب قهوة ولا تاي؟) في بلاصة ما تسألو سؤال صعيب."
+    },
+    {
+        "id": 154,
+        "theme": "Communication avec le malade",
+        "question_fr": "Pourquoi est-il important de garder un ton de voix bas ?",
+        "question_darija": "علاش مهم برشا نخليو صوتنا واطي وهادي؟",
+        "answer_fr": "Parce que le malade est très sensible aux émotions. Un ton fort ou aigu peut être perçu comme une agression, même si vos mots sont gentils.",
+        "answer_darija": "خاطر المريض يحس برشا بالعواطف. الصوت العالي ولا الحاد ينجم يفهمو الي انت تتعارك معاه، حتى كان كلامك باهي."
+    },
+    {
+        "id": 155,
+        "theme": "Communication avec le malade",
+        "question_fr": "Comment parler d'un proche décédé s'il croit qu'il est encore vivant ?",
+        "question_darija": "كيفاش نحكي على حد مات وهو في بالو مازال حي؟",
+        "answer_fr": "Inutile de créer un choc. S'il demande après lui, parlez de la personne avec tendresse ou demandez-lui de vous raconter un souvenir sur elle.",
+        "answer_darija": "مش لازم تصدمو. إذا سأل عليه، احكي عليه بالباهي ولا قولو 'احكيلي عليه فاش كان يعمل'، هكا تفرحو من غير ما تفجعو."
+    },
+    {
+        "id": 156,
+        "theme": "Communication avec le malade",
+        "question_fr": "Que faire quand le malade s'énerve parce qu'il ne trouve pas ses mots ?",
+        "question_darija": "شنوة نعمل كيف المريض يتغشش خاطر ما لقاش الكلمة الي يحب يقولها؟",
+        "answer_fr": "Aidez-le doucement en proposant le mot, ou dites-lui 'ce n'est pas grave, prends ton temps'. Le rassurer est plus important que le mot lui-même.",
+        "answer_darija": "عاونو بشوية واعطيه الكلمة، ولا قولو 'مايسالش، خوذ وقتك'. المهم تطمنو أكثر ملي يلقى الكلمة بالصحيح."
+    },
+    {
+        "id": 157,
+        "theme": "Communication avec le malade",
+        "question_fr": "Est-ce qu'on peut utiliser l'humour avec un patient Alzheimer ?",
+        "question_darija": "نجمو نفدلكو ونضحكو مع مريض الزهايمر؟",
+        "answer_fr": "Oui, l'humour bienveillant est excellent. Rire ensemble crée un lien fort et diminue l'anxiété pour vous deux.",
+        "answer_darija": "أي، الفدلكة الباهية باهية برشا. كيف تضحكو مع بعضكم تنقص الخوف والستريس ليكم الزوز."
+    },
+    {
+        "id": 158,
+        "theme": "Communication avec le malade",
+        "question_fr": "Comment communiquer pendant le repas ?",
+        "question_darija": "كيفاش نحكي معاه وقت الماكلة؟",
+        "answer_fr": "Réduisez les bruits (éteignez la TV) pour qu'il se concentre. Décrivez ce qu'il mange avec des mots appétissants pour stimuler son envie.",
+        "answer_darija": "نقص الضجيج (سكر التلفزة) باش يركز. وصفلو الماكلة الي قدامو بكلام يشهي باش يحب ياكل."
+    },
+    {
+        "id": 159,
+        "theme": "Communication avec le malade",
+        "question_fr": "Faut-il continuer à lui parler même s'il ne répond plus ?",
+        "question_darija": "نكمل نحكي معاه حتى كان ما عادش يجاوبني جملة؟",
+        "answer_fr": "Oui, absolument. Même s'il ne parle pas, il ressent votre présence, votre odeur et la chaleur de votre voix. C'est rassurant pour lui.",
+        "answer_darija": "أي، أكيد. حتى كان ما يتكلمش، راهو يحس بوجودك، بريحتك وبدفا صوتك. هذا يطمنو برشا."
+    },
+    {
+        "id": 160,
+        "theme": "Communication avec le malade",
+        "question_fr": "Comment finir une conversation ou quitter la pièce sans l'agiter ?",
+        "question_darija": "كيفاش ننهي الحديث ولا نخرج من البيت من غير ما يتقلق؟",
+        "answer_fr": "Annoncez ce que vous allez faire ('Je vais dans la cuisine et je reviens') plutôt que de partir brusquement.",
+        "answer_darija": "قولو شنوة باش تعمل (مثلا 'باش نمشي للكوجينة ونجي') خير ملي تخرج فجأة وتخليه يتفجع."
+    },
+    {
+        "id": 161,
+        "theme": "Prévention et mode de vie",
+        "question_fr": "Est-ce qu’on peut prévenir ou retarder l’Alzheimer ?",
+        "question_darija": "واش ينجم الإنسان يمنع أو يبطئ مرض الزهايمر؟",
+        "answer_fr": "Oui, en adoptant un mode de vie sain : sport, alimentation équilibrée et stimulation mentale.",
+        "answer_darija": "أي، بالحياة الصحية: رياضة، أكل متوازن وتحفيز ذهني."
+    },
+    {
+        "id": 162,
+        "theme": "Prévention et mode de vie",
+        "question_fr": "Quels sont les meilleurs aliments pour protéger le cerveau ?",
+        "question_darija": "شنوة أحسن الأكلات اللي تحمي الدماغ؟",
+        "answer_fr": "Poissons gras, fruits rouges, légumes verts, noix et huile d’olive.",
+        "answer_darija": "السمك الدهني، الفواكه الحمراء، الخضر الورقية، الكعاب وزيت الزيتون."
+    },
+    {
+        "id": 163,
+        "theme": "Prévention et mode de vie",
+        "question_fr": "Le sport aide-t-il contre l’Alzheimer ?",
+        "question_darija": "الرياضة تساعد ضد الزهايمر؟",
+        "answer_fr": "Oui, la marche ou la natation réduisent le risque.",
+        "answer_darija": "أي، المشي أو السباحة تنقص الخطر."
+    },
+    {
+        "id": 164,
+        "theme": "Prévention et mode de vie",
+        "question_fr": "Est-ce que le sommeil est important pour prévenir la maladie ?",
+        "question_darija": "النوم مهم باش نحمي روحنا من المرض؟",
+        "answer_fr": "Oui, un bon sommeil permet au cerveau d’éliminer les toxines.",
+        "answer_darija": "أي، النوم الجيد يساعد الدماغ يتخلص من السموم."
+    },
+    {
+        "id": 165,
+        "theme": "Prévention et mode de vie",
+        "question_fr": "Faut-il faire des exercices de mémoire tous les jours ?",
+        "question_darija": "لازم نعمل تمارين ذاكرة كل يوم؟",
+        "answer_fr": "Oui, lire, faire des puzzles ou apprendre une nouvelle compétence aide le cerveau.",
+        "answer_darija": "أي، القراءة، حل الألغاز أو تعلم حاجة جديدة يساعد الدماغ."
+    },
+    {
+        "id": 166,
+        "theme": "Prévention et mode de vie",
+        "question_fr": "L’hypertension et le diabète augmentent-ils le risque ?",
+        "question_darija": "الضغط الدموي والسكر يزيدوا خطر الإصابة؟",
+        "answer_fr": "Oui, ils augmentent fortement le risque.",
+        "answer_darija": "أي، يزيدوا خطر الإصابة برشا."
+    },
+    {
+        "id": 167,
+        "theme": "Prévention et mode de vie",
+        "question_fr": "Le tabac et l’alcool ont-ils un impact sur l’Alzheimer ?",
+        "question_darija": "التدخين والكحول يأثروا على الزهايمر؟",
+        "answer_fr": "Oui, ils augmentent le risque de façon importante.",
+        "answer_darija": "أي، يزيدوا الخطر بدرجة كبيرة."
+    },
+    {
+        "id": 168,
+        "theme": "Prévention et mode de vie",
+        "question_fr": "La lecture, les jeux et les activités sociales aident-ils ?",
+        "question_darija": "القراءة والألعاب والنشاط الاجتماعي يساعدوا؟",
+        "answer_fr": "Oui, ils stimulent le cerveau et réduisent le risque.",
+        "answer_darija": "أي، يحفزو الدماغ وينقصوا خطر الخرف."
+    },
+    {
+        "id": 169,
+        "theme": "Prévention et mode de vie",
+        "question_fr": "Quel est le rôle de la stimulation cognitive ?",
+        "question_darija": "شنوة دور التحفيز الذهني؟",
+        "answer_fr": "Elle aide à maintenir les capacités mentales le plus longtemps possible.",
+        "answer_darija": "يساعد في الحفاظ على القدرات الذهنية أطول فترة ممكنة."
+    },
+    {
+        "id": 170,
+        "theme": "Prévention et mode de vie",
+        "question_fr": "Y a-t-il des vaccins ou des médicaments préventifs ?",
+        "question_darija": "فيه لقاحات أو أدوية وقائية؟",
+        "answer_fr": "Il n’existe pas encore de vaccin ou médicament préventif efficace. La meilleure prévention est un mode de vie sain.",
+        "answer_darija": "ما فيش لقاح أو دوا وقائي فعال بعد. أحسن وقاية هي حياة صحية."
+    },
+    {
+        "id": 171,
+        "theme": "Prévention et mode de vie",
+        "question_fr": "Pourquoi le régime méditerranéen est-il recommandé ?",
+        "question_darija": "علاش ديما ينصحوا بمكلة البحر الأبيض المتوسط؟",
+        "answer_fr": "Parce qu'il est riche en huile d'olive, poissons et légumes, ce qui réduit l'inflammation et protège les neurones.",
+        "answer_darija": "خاطر فيه برشا زيت زيتونة، حوت وخضرة، وهذا ينقص من الالتهابات ويحمي عروق المخ."
+    },
+    {
+        "id": 172,
+        "theme": "Prévention et mode de vie",
+        "question_fr": "Est-ce que le stress chronique peut causer Alzheimer ?",
+        "question_darija": "واش الستريس والقلق ديما ينجم يسبب الزهايمر؟",
+        "answer_fr": "Le stress ne cause pas directement la maladie, mais il peut accélérer l'apparition des symptômes chez les personnes à risque.",
+        "answer_darija": "الستريس ما يسببش المرض مباشرة، أما ينجم يسرع في ظهور العلامات عند العباد الي عندهم استعداد للمرض."
+    },
+    {
+        "id": 173,
+        "theme": "Prévention et mode de vie",
+        "question_fr": "Quelles activités sociales protègent le mieux le cerveau ?",
+        "question_darija": "شنوة النشاطات مع الناس الي تحمي المخ أكثر؟",
+        "answer_fr": "Discuter avec des amis, faire du bénévolat ou participer à des clubs. Le lien social est un puissant protecteur contre le déclin cognitif.",
+        "answer_darija": "الحديث مع الأصحاب، التطوع في الجمعيات، ولا المشاركة في نوادي. القعدة مع العباد تحمي المخ برشا من النسيان."
+    },
+    {
+        "id": 174,
+        "theme": "Prévention et mode de vie",
+        "question_fr": "Apprendre une nouvelle langue aide-t-il vraiment ?",
+        "question_darija": "واش تعلم لغة جديدة يعاون بالحق؟",
+        "answer_fr": "Oui, apprendre une langue ou un instrument de musique crée de nouvelles connexions dans le cerveau (neuroplasticité).",
+        "answer_darija": "أي، تعلم لغة ولا آلة موسيقية يصنع روابط جديدة في المخ ويخليه ديما ناشط."
+    },
+    {
+        "id": 175,
+        "theme": "Prévention et mode de vie",
+        "question_fr": "Est-ce que l'isolement social est un facteur de risque ?",
+        "question_darija": "واش الوحدة وعدم القعدة مع الناس تزيد في خطر المرض؟",
+        "answer_fr": "Oui, rester seul sans interactions stimule moins le cerveau et peut accélérer la perte de mémoire.",
+        "answer_darija": "أي، الواحد كيف يبقى وحدو مخو ما يلقاش شكون يحفزو، وهذا ينجم يسرع في ضياع الذاكرة."
+    },
+    {
+        "id": 176,
+        "theme": "Prévention et mode de vie",
+        "question_fr": "Le cholestérol a-t-il un lien avec Alzheimer ?",
+        "question_darija": "فما علاقة بين الكوليسترول والزهايمر؟",
+        "answer_fr": "Un taux de cholestérol élevé peut boucher les petits vaisseaux du cerveau et augmenter le risque de démence vasculaire et d'Alzheimer.",
+        "answer_darija": "الكوليسترول الطالع ينجم يسكر العروق الصغيرة في المخ ويزيد في خطر الخرف والزهايمر."
+    },
+    {
+        "id": 177,
+        "theme": "Prévention et mode de vie",
+        "question_fr": "Faut-il éviter certains métaux comme l'aluminium ?",
+        "question_darija": "لازم نبعدو على معادن كيف الألمنيوم؟",
+        "answer_fr": "Il n'y a pas de preuve scientifique solide que l'aluminium cause Alzheimer, mais il est toujours mieux d'utiliser des ustensiles de cuisine sains.",
+        "answer_darija": "ما فماش دليل علمي صحيح الي الألمنيوم يسبب المرض، أما ديما خير كان نستعملو ماعون كوجينة صحي."
+    },
+    {
+        "id": 178,
+        "theme": "Prévention et mode de vie",
+        "question_fr": "Est-ce que l'obésité joue un rôle dans la maladie ?",
+        "question_darija": "واش السمنة عندها دور في المرض؟",
+        "answer_fr": "Oui, l'obésité au milieu de la vie augmente le risque de développer la maladie plus tard. Garder un poids équilibré est essentiel.",
+        "answer_darija": "أي، السمنة في وسط العمر تزيد في خطر المرض مبعد. لازم الواحد يحاول يخلي وزنو معتدل."
+    },
+    {
+        "id": 179,
+        "theme": "Prévention et mode de vie",
+        "question_fr": "Y a-t-il des vitamines spécifiques à prendre en prévention ?",
+        "question_darija": "فما فيتامينات معينة لازم ناخذوهم للوقاية؟",
+        "answer_fr": "La vitamine B12, D et E sont importantes, mais il vaut mieux les prendre via une alimentation naturelle que par des compléments sans avis médical.",
+        "answer_darija": "فيتامينات B12 و D و E مهمين، أما خير كان ناخذوهم من الماكلة الطبيعية مش من الدوايات بلاش نصيحة طبيب."
+    },
+    {
+        "id": 180,
+        "theme": "Prévention et mode de vie",
+        "question_fr": "Combien de minutes de sport faut-il faire par semaine ?",
+        "question_darija": "قداش من دقيقة رياضة لازم نعملو في الجمعة؟",
+        "answer_fr": "Il est recommandé de faire au moins 150 minutes d'activité physique modérée (comme la marche rapide) par semaine.",
+        "answer_darija": "ينصحوا باش تعمل على الأقل 150 دقيقة رياضة خفيفة (كيف المشي السريع) في الجمعة."
+    }
+]

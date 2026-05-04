@@ -1,0 +1,66 @@
+[
+  {
+    "question_fr": "Quels sont les premiers symptomes de la maladie d'Alzheimer ?",
+    "question_darija": "شنو هما العلامات الاولى ديال الزهايمر؟",
+    "question_en": "What are the early signs of Alzheimer's disease?",
+    "answer_fr": "Les premiers signes frequents sont les oublis repetes, la desorientation, la difficulte a trouver les mots et les changements d'humeur. Un bilan medical reste necessaire pour confirmer la cause.",
+    "answer_darija": "العلامات الاولى كتكون غالبا نسيان متكرر، التيه، صعوبة فالكلام، وتبدلات فالمزاج. التشخيص خاصو يبقى عند الطبيب.",
+    "answer_en": "Early signs often include repeated memory lapses, disorientation, word-finding difficulty, and mood changes. A medical evaluation is still needed to confirm the cause."
+  },
+  {
+    "question_fr": "Comment aider une personne Alzheimer a la maison ?",
+    "question_darija": "كيفاش نعاون مريض الزهايمر فالدار؟",
+    "question_en": "How can I help someone with Alzheimer's at home?",
+    "answer_fr": "Mettez en place une routine stable, des consignes simples, un environnement securise et des reperes visuels. Limitez le stress et favorisez les activites calmes et familieres.",
+    "answer_darija": "دير روتين ثابت، تعليمات بسيطة، دار مؤمنة، وحط علامات واضحة. نقص التوتر وخلي المريض يدير انشطة هادئة ومألوفة.",
+    "answer_en": "Keep a stable routine, use simple instructions, secure the home, and provide visual cues. Reduce stress and encourage calm, familiar activities."
+  },
+  {
+    "question_fr": "Quels traitements existent pour Alzheimer ?",
+    "question_darija": "شنو هي العلاجات ديال الزهايمر؟",
+    "question_en": "Which treatments are available for Alzheimer's?",
+    "answer_fr": "Les traitements disponibles peuvent ralentir certains symptomes selon le stade, mais ils ne guerissent pas la maladie. Le choix du traitement doit toujours etre valide par un neurologue ou un geriatre.",
+    "answer_darija": "كاينين علاجات يقدرو يخففو او يبطئو بعض الاعراض حسب المرحلة، ولكن ما كيشافيوش المرض. القرار خاصو يكون مع طبيب مختص.",
+    "answer_en": "Available treatments may help slow some symptoms depending on the stage, but they do not cure the disease. Treatment choices should always be confirmed by a specialist."
+  },
+  {
+    "question_fr": "Que faire si le patient devient agite ou agressif ?",
+    "question_darija": "اش ندير الى المريض ولى معصب ولا عدواني؟",
+    "question_en": "What should I do if the patient becomes agitated or aggressive?",
+    "answer_fr": "Restez calme, reduisez le bruit, evitez la confrontation directe et essayez de rediriger l'attention vers une musique, une photo ou un objet rassurant.",
+    "answer_darija": "بقا هادئ، نقص الضجيج، ما تدخلش فمواجهة مباشرة، وحاول تحول الانتباه لشي حاجة كتهدن بحال الموسيقى ولا صورة.",
+    "answer_en": "Stay calm, reduce noise, avoid direct confrontation, and try redirecting attention toward music, photos, or another comforting object."
+  },
+  {
+    "question_fr": "Quelles activites sont recommandees pour ralentir le declin cognitif ?",
+    "question_darija": "شنو الانشطة اللي تنفع باش نباطئو التدهور المعرفي؟",
+    "question_en": "Which activities are recommended to slow cognitive decline?",
+    "answer_fr": "La marche, la musique, les jeux de memoire simples, le jardinage, la lecture accompagnee et les interactions sociales regulieres sont souvent utiles.",
+    "answer_darija": "المشي، الموسيقى، العاب الذاكرة البسيطة، البستنة، القراءة مع المساعدة، والتواصل الاجتماعي كينفعو بزاف.",
+    "answer_en": "Walking, music, simple memory games, gardening, supported reading, and regular social interaction are often helpful."
+  },
+  {
+    "question_fr": "Comment prevenir ou retarder la demence ?",
+    "question_darija": "كيفاش نقدر نوقيو ولا نأخرو الخرف؟",
+    "question_en": "How can dementia be prevented or delayed?",
+    "answer_fr": "Une activite physique reguliere, une alimentation de type mediterraneen, un bon sommeil, le controle du diabete et de l'hypertension, ainsi qu'une vie sociale active aident a proteger la sante cognitive.",
+    "answer_darija": "الرياضة بانتظام، الماكلة المتوسطية، النوم المزيان، مراقبة السكري والضغط، والحياة الاجتماعية النشيطة كيساعدو بزاف فحماية الدماغ.",
+    "answer_en": "Regular exercise, a Mediterranean-style diet, good sleep, controlling diabetes and blood pressure, and staying socially active help protect cognitive health."
+  },
+  {
+    "question_fr": "Comment parler a une personne atteinte d'Alzheimer ?",
+    "question_darija": "كيفاش نهضر مع واحد عندو الزهايمر؟",
+    "question_en": "How should I talk to a person living with Alzheimer's?",
+    "answer_fr": "Utilisez des phrases courtes, une seule consigne a la fois, un ton rassurant et laissez du temps pour repondre. Le regard et les gestes calmes sont aussi importants.",
+    "answer_darija": "هضر بجمل قصيرة، عطِ غير تعليمية وحدة فكل مرة، وبنبرة مطمئنة، وخلي الوقت باش يجاوب. النظرة والهدوء مهمين بزاف.",
+    "answer_en": "Use short sentences, one instruction at a time, and a reassuring tone. Give the person time to answer, and rely on calm eye contact and gestures."
+  },
+  {
+    "question_fr": "Je suis fatigue en tant qu'aidant, que faire ?",
+    "question_darija": "أنا تعبان كمرافق، اش خاصني ندير؟",
+    "question_en": "I am exhausted as a caregiver. What should I do?",
+    "answer_fr": "Votre sante compte aussi. Essayez d'organiser des relais, de prendre des pauses regulieres et de demander de l'aide a la famille, au medecin ou a une association.",
+    "answer_darija": "الصحة ديالك حتى هي مهمة. حاول تلقى لي يعاونك، دير فترات راحة، وطلب المساعدة من العائلة ولا من المختصين.",
+    "answer_en": "Your health matters too. Try to organize backup support, take regular breaks, and ask family, clinicians, or community groups for help."
+  }
+]
